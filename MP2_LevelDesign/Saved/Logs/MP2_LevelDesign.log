@@ -9671,3 +9671,875 @@ Script Stack (5 frames) :
 [2025.02.15-23.34.32:738][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
 [2025.02.15-23.34.32:746][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
 [2025.02.15-23.34.32:814][421]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.02.15-23.35.01:196][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.35.01:243][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode] ([2] browsable assets)...
+[2025.02.15-23.35.01:243][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode]
+[2025.02.15-23.35.01:247][894]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode
+[2025.02.15-23.35.01:248][894]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKitGameMode1733BBB44546DB2CAA98DBAF009DE197.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset'
+[2025.02.15-23.35.01:255][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.220 ms (total: 4.19 sec)
+[2025.02.15-23.35.01:310][894]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.35.01:310][894]LogContentValidation: Enabled validators:
+[2025.02.15-23.35.01:310][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.35.01:310][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.35.01:310][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.35.01:310][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.35.01:310][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.35.01:310][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.35.01:310][894]AssetCheck: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode Validating asset
+[2025.02.15-23.35.02:267][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.15-23.35.04:589][194]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-23.35.04:594][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-23.35.04:633][194]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.35.04:636][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002880s)
+[2025.02.15-23.35.04:636][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.002921s)
+[2025.02.15-23.35.04:656][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.15-23.35.04:660][194]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.15-23.35.04:662][194]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2025.02.15-23.35.04:663][194]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.02.15-23.35.04:663][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-23.35.04:663][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-23.35.04:663][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-23.35.04:663][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-23.35.04:663][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-23.35.04:663][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-23.35.04:663][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-23.35.04:663][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-23.35.04:663][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-23.35.04:663][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-23.35.04:663][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-23.35.04:665][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-23.35.04:685][194]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.15-23.35.04:685][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-23.35.04:685][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-23.35.04:685][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-23.35.04:686][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.02.15-23.35.04:686][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.02.15-23.35.04:688][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.02.15-23.35.04:688][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.02.15-23.35.04:688][194]LogInit: FAudioDevice initialized with ID 35.
+[2025.02.15-23.35.04:688][194]LogAudio: Display: Audio Device (ID: 35) registered with world 'Map_BasicLevel'.
+[2025.02.15-23.35.04:688][194]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.02.15-23.35.04:690][194]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.15-23.35.04:692][194]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.15-17.35.04
+[2025.02.15-23.35.04:692][194]LogWorld: Bringing up level for play took: 0.001377
+[2025.02.15-23.35.04:694][194]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.02.15-23.35.04:698][194]PIE: Server logged in
+[2025.02.15-23.35.04:699][194]PIE: Play in editor total start time 0.104 seconds.
+[2025.02.15-23.35.11:580][976]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. None CameraShakeBase
+[2025.02.15-23.35.12:579][ 93]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.35.13:925][254]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.35.15:157][396]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.35.23:347][352]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.35.24:728][517]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.35.25:899][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8118.049316
+[2025.02.15-23.35.25:966][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-23.35.25:966][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8118.109375, Update Interval: 328.092896
+[2025.02.15-23.35.26:182][685]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.35.27:892][879]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.35.32:253][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.35.32:253][379]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.35.32:253][379]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.35.32:253][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.35.32:257][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-23.35.32:263][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.35.32:286][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.15-23.35.32:286][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.02.15-23.35.32:286][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.02.15-23.35.32:288][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.02.15-23.35.32:292][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.35.32:294][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.02.15-23.35.32:364][381]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.02.15-23.35.33:974][572]LogStreaming: Display: FlushAsyncLoading(1370): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.15-23.35.33:987][572]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/VFX/Dependencies/Textures/T_Celebrate_upwardsAura.T_Celebrate_upwardsAura (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.02.15-23.35.33:987][572]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/Emitters/Character/PEN_UpwardsAura.PEN_UpwardsAura
+[2025.02.15-23.35.34:133][572]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.02.15-23.35.34:285][572]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.02.15-23.35.34:797][575]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.35.34:798][575]LogNiagaraCompiler: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 - 
+[2025.02.15-23.35.36:266][659]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 2.071298 sec (time since issued), 1.682699 sec (combined shader worker time).
+[2025.02.15-23.35.36:463][667]131048_NiagaraSystem_0_MessageLog: System successfully compiled with 2 warnings.
+[2025.02.15-23.35.36:464][667]131048_NiagaraSystem_0_MessageLog: Warning: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle -  PEN_UpwardsAura, Particle Spawn Script Interpolated, 
+[2025.02.15-23.35.36:464][667]131048_NiagaraSystem_0_MessageLog: Warning: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 -  PEN_UpwardsAura, Particle Spawn Script Interpolated, 
+[2025.02.15-23.35.49:641][463]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.35.49:641][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.35.49:657][463]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.35.49:657][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.35.49:756][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.02.15-23.35.49:883][471]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.35.49:883][471]LogNiagaraCompiler: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 - 
+[2025.02.15-23.35.50:174][488]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.591098 sec (time since issued), 0.464413 sec (combined shader worker time).
+[2025.02.15-23.35.52:358][695]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/Emitters/Character/PEN_TwinkleAura.PEN_TwinkleAura
+[2025.02.15-23.35.52:387][695]LogTexture: Display: Building textures: /Engine/Transient.NiagaraSystem_1:PEN_TwinkleAura.Texture2D_2 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.02.15-23.35.52:448][695]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.02.15-23.35.52:533][695]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.02.15-23.35.53:101][700]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.35.54:863][793]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_1 took 2.407716 sec (time since issued), 1.994835 sec (combined shader worker time).
+[2025.02.15-23.35.55:055][801]132554_NiagaraSystem_1_MessageLog: System successfully compiled with 1 warnings.
+[2025.02.15-23.35.55:055][801]132554_NiagaraSystem_1_MessageLog: Warning: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle -  PEN_TwinkleAura, Particle Spawn Script Interpolated, 
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: ================================================
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Total job queries 9,860, among them cache hits 1,103 (11.19%), DDC hits 7,528 (76.35%), Duplicates 722 (7.32%)
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Tracking 8,035 distinct input hashes that result in 7,387 distinct outputs (91.94%)
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: RAM used: 4.97 MiB of 1.60 GiB budget. Usage: 0.30%
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Shaders Compiled: 507
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Jobs assigned 507, completed 507 (100%)
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Average time worker was idle: 132.05 s
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Time job spent in pending queue: average 1.02 s, longest 16.11 s
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Job execution time: average 2.27 s, max 40.81 s
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Job life time (pending + execution): average 3.28 s, max 45.12
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Shader code size: average 9.861 KiB, min 1.946 KiB, max 141.992 KiB
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 168.94 s
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.44%
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Jobs were issued in 353 batches (only local compilation was used), average 1.04 jobs/batch
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Average processing rate: 3.00 jobs/sec
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Total thread time: 615.945 s
+[2025.02.15-23.36.16:732][137]LogShaderCompilers: Display: Total thread preprocess time: 143.543 s
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Percentage time preprocessing: 23.30%
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Effective parallelization: 3.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    9 times, average 16.42 sec, max 34.03 sec, min 3.02 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   11 times, average 10.04 sec, max 14.39 sec, min 2.38 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   11 times, average 8.37 sec, max 11.12 sec, min 2.51 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    3 times, average 6.84 sec, max 6.95 sec, min 6.68 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 1.02 sec, max 4.10 sec, min 0.44 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 24.00% of total time (compiled    9 times, average 16.42 sec, max 34.03 sec, min 3.02 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 17.93% of total time (compiled   11 times, average 10.04 sec, max 14.39 sec, min 2.38 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                                 FLumenCardCS - 14.94% of total time (compiled   11 times, average 8.37 sec, max 11.12 sec, min 2.51 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.04% of total time (compiled  122 times, average 0.66 sec, max 4.78 sec, min 0.28 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.04% of total time (compiled  111 times, average 0.50 sec, max 3.64 sec, min 0.21 sec)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: === Material stats ===
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Materials Translated:    316
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Material Translation Only: 0.06 s (42%)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.02.15-23.36.16:733][137]LogShaderCompilers: Display: ================================================
+[2025.02.15-23.36.20:177][360]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.36.20:177][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.36.20:195][360]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.36.20:195][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.36.20:315][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.15-23.36.20:563][376]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.36.20:843][396]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_1 took 0.682582 sec (time since issued), 0.603830 sec (combined shader worker time).
+[2025.02.15-23.36.26:858][ 11]LogStreaming: Display: FlushAsyncLoading(1379): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.15-23.36.26:876][ 11]LogStaticMesh: Display: Building static mesh SM_LeafLogo (Required Memory Estimate: 0.387312 MB)...
+[2025.02.15-23.36.26:887][ 11]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/Emitters/Character/NE_LogoLines_Mesh.NE_LogoLines_Mesh
+[2025.02.15-23.36.26:889][ 11]LogTexture: Display: Building textures: /Game/LearningKit_Games/Assets/VFX/Emitters/Character/NE_LogoLines_Mesh.NE_LogoLines_Mesh:Texture2D_0 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.02.15-23.36.26:890][ 11]LogStaticMesh: Built static mesh [0.01s] /Game/LearningKit_Games/Assets/VFX/Dependencies/Meshes/SM_LeafLogo.SM_LeafLogo
+[2025.02.15-23.36.26:918][ 11]LogTexture: Display: Building textures: /Engine/Transient.NiagaraSystem_2:NE_LogoLines_Mesh.Texture2D_0 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.02.15-23.36.27:001][ 11]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.02.15-23.36.27:112][ 11]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.02.15-23.36.27:592][ 17]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.36.27:593][ 17]LogNiagaraCompiler: Function call "SolveRotationalForcesAndVelocity" is deprecated. No recommendation was provided. - Node: Solve Rotational Forces and Velocity - 
+[2025.02.15-23.36.27:734][ 24]LogNiagaraCompiler: Function call "SolveRotationalForcesAndVelocity" is deprecated. No recommendation was provided. - Node: Solve Rotational Forces and Velocity - 
+[2025.02.15-23.36.27:962][ 34]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_2 took 0.919295 sec (time since issued), 0.566311 sec (combined shader worker time).
+[2025.02.15-23.36.28:204][ 42]134245_NiagaraSystem_2_MessageLog: System successfully compiled with 3 warnings.
+[2025.02.15-23.36.28:204][ 42]134245_NiagaraSystem_2_MessageLog: Warning: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle -  NE_LogoLines_Mesh, Particle Spawn Script Interpolated, 
+[2025.02.15-23.36.28:204][ 42]134245_NiagaraSystem_2_MessageLog: Warning: Function call "SolveRotationalForcesAndVelocity" is deprecated. No recommendation was provided. - Node: Solve Rotational Forces and Velocity -  NE_LogoLines_Mesh, Particle Spawn Script Interpolated, 
+[2025.02.15-23.36.28:204][ 42]134245_NiagaraSystem_2_MessageLog: Warning: Function call "SolveRotationalForcesAndVelocity" is deprecated. No recommendation was provided. - Node: Solve Rotational Forces and Velocity -  NE_LogoLines_Mesh, Particle Update Script, 
+[2025.02.15-23.36.35:605][468]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.36.35:605][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.36.35:621][468]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.36.35:621][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.36.35:731][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.15-23.36.35:952][480]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.36.35:952][480]LogNiagaraCompiler: Function call "SolveRotationalForcesAndVelocity" is deprecated. No recommendation was provided. - Node: Solve Rotational Forces and Velocity - 
+[2025.02.15-23.36.36:107][489]LogNiagaraCompiler: Function call "SolveRotationalForcesAndVelocity" is deprecated. No recommendation was provided. - Node: Solve Rotational Forces and Velocity - 
+[2025.02.15-23.36.36:293][499]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_2 took 0.709700 sec (time since issued), 0.630429 sec (combined shader worker time).
+[2025.02.15-23.36.40:237][729]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/Emitters/Character/PEN_Twinkles.PEN_Twinkles
+[2025.02.15-23.36.40:334][729]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.02.15-23.36.40:462][729]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.02.15-23.36.40:977][734]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.36.40:977][734]LogNiagaraCompiler: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 - 
+[2025.02.15-23.36.43:270][861]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_3 took 2.877655 sec (time since issued), 2.525899 sec (combined shader worker time).
+[2025.02.15-23.36.43:452][869]136493_NiagaraSystem_3_MessageLog: System successfully compiled with 2 warnings.
+[2025.02.15-23.36.43:452][869]136493_NiagaraSystem_3_MessageLog: Warning: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle -  PEN_Twinkles, Particle Spawn Script Interpolated, 
+[2025.02.15-23.36.43:452][869]136493_NiagaraSystem_3_MessageLog: Warning: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 -  PEN_Twinkles, Particle Spawn Script Interpolated, 
+[2025.02.15-23.37.06:699][222]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.37.06:699][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.37.06:715][222]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.37.06:715][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.37.06:833][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.02.15-23.37.07:187][242]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.37.07:187][242]LogNiagaraCompiler: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 - 
+[2025.02.15-23.37.07:491][259]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_3 took 0.836106 sec (time since issued), 0.732737 sec (combined shader worker time).
+[2025.02.15-23.37.19:520][967]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/LearningKit_Games/Assets/VFX/Clouds/NE_Clouds.NE_Clouds
+[2025.02.15-23.37.19:549][967]LogTexture: Display: Building textures: /Engine/Transient.NiagaraSystem_4:NE_Clouds.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.02.15-23.37.19:632][967]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.02.15-23.37.19:761][967]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.02.15-23.37.20:277][974]LogNiagaraCompiler: Function call "InitialMeshOrientation" is deprecated. Reason:
+---------------------------------------
+---------------------------------------
+This version had a subtle rotation bug when using the "rotation vector" input, in certain edge cases. Most were fine, but consider upgrading this module for future proofing, and double check your rotations are correct after upgrading.
+
+To match previous orientations when using the RotationVector Option, you may have to invert your previous X or Y value.
+---------------------------------------
+---------------------------------------.
+Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialMeshOrientation instead. - Node: Initial Mesh Orientation - 
+[2025.02.15-23.37.20:278][974]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.37.20:278][974]LogNiagaraCompiler: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 - 
+[2025.02.15-23.37.20:642][990]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_4 took 0.949835 sec (time since issued), 0.600896 sec (combined shader worker time).
+[2025.02.15-23.37.20:872][998]137021_NiagaraSystem_4_MessageLog: System successfully compiled with 3 warnings.
+[2025.02.15-23.37.20:872][998]137021_NiagaraSystem_4_MessageLog: Warning: Function call "InitialMeshOrientation" is deprecated. Reason:
+---------------------------------------
+---------------------------------------
+This version had a subtle rotation bug when using the "rotation vector" input, in certain edge cases. Most were fine, but consider upgrading this module for future proofing, and double check your rotations are correct after upgrading.
+
+To match previous orientations when using the RotationVector Option, you may have to invert your previous X or Y value.
+---------------------------------------
+---------------------------------------.
+Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialMeshOrientation instead. - Node: Initial Mesh Orientation -  NE_Clouds, Particle Spawn Script Interpolated, 
+[2025.02.15-23.37.20:872][998]137021_NiagaraSystem_4_MessageLog: Warning: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle -  NE_Clouds, Particle Spawn Script Interpolated, 
+[2025.02.15-23.37.20:872][998]137021_NiagaraSystem_4_MessageLog: Warning: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 -  NE_Clouds, Particle Spawn Script Interpolated, 
+[2025.02.15-23.37.29:158][477]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.37.29:159][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.37.29:174][477]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.37.29:174][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.37.29:298][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.02.15-23.37.29:531][490]LogNiagaraCompiler: Function call "InitialMeshOrientation" is deprecated. Reason:
+---------------------------------------
+---------------------------------------
+This version had a subtle rotation bug when using the "rotation vector" input, in certain edge cases. Most were fine, but consider upgrading this module for future proofing, and double check your rotations are correct after upgrading.
+
+To match previous orientations when using the RotationVector Option, you may have to invert your previous X or Y value.
+---------------------------------------
+---------------------------------------.
+Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialMeshOrientation instead. - Node: Initial Mesh Orientation - 
+[2025.02.15-23.37.29:532][490]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2025.02.15-23.37.29:532][490]LogNiagaraCompiler: Function call "NormalizedAngleToDegrees001" is deprecated. Reason:
+Replaced by a unified angle conversion input which can switch modes for more flexibility and covers all the conversion cases..
+Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead. - Node: Normalized Angle to Degrees 001 - 
+[2025.02.15-23.37.29:802][505]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_4 took 0.705344 sec (time since issued), 0.581606 sec (combined shader worker time).
+[2025.02.15-23.38.19:458][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.02.15-23.38.19:984][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.38.20:023][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode] ([2] browsable assets)...
+[2025.02.15-23.38.20:023][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode]
+[2025.02.15-23.38.20:028][372]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode
+[2025.02.15-23.38.20:028][372]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKitGameMode60CDEBF54127A6035CAB5794636811C6.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset'
+[2025.02.15-23.38.20:036][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.721 ms (total: 4.24 sec)
+[2025.02.15-23.38.20:071][372]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.38.20:071][372]LogContentValidation: Enabled validators:
+[2025.02.15-23.38.20:071][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.38.20:071][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.38.20:071][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.38.20:071][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.38.20:071][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.38.20:071][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.38.20:071][372]AssetCheck: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode Validating asset
+[2025.02.15-23.38.22:148][494]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-23.38.22:153][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-23.38.22:153][494]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.38.22:155][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002394s)
+[2025.02.15-23.38.22:155][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.002423s)
+[2025.02.15-23.38.22:177][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.15-23.38.22:182][494]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.15-23.38.22:183][494]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2025.02.15-23.38.22:184][494]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.02.15-23.38.22:184][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-23.38.22:184][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-23.38.22:184][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-23.38.22:184][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-23.38.22:184][494]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-23.38.22:184][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-23.38.22:184][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-23.38.22:184][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-23.38.22:184][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-23.38.22:184][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-23.38.22:184][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-23.38.22:186][494]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-23.38.22:206][494]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.15-23.38.22:206][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-23.38.22:206][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-23.38.22:206][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-23.38.22:207][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.02.15-23.38.22:207][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.02.15-23.38.22:209][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.02.15-23.38.22:209][494]LogInit: FAudioDevice initialized with ID 36.
+[2025.02.15-23.38.22:209][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.02.15-23.38.22:209][494]LogAudio: Display: Audio Device (ID: 36) registered with world 'Map_BasicLevel'.
+[2025.02.15-23.38.22:209][494]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.02.15-23.38.22:211][494]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.15-23.38.22:213][494]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 60) at 2025.02.15-17.38.22
+[2025.02.15-23.38.22:213][494]LogWorld: Bringing up level for play took: 0.001311
+[2025.02.15-23.38.22:214][494]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.02.15-23.38.22:218][494]PIE: Server logged in
+[2025.02.15-23.38.22:219][494]PIE: Play in editor total start time 0.066 seconds.
+[2025.02.15-23.38.29:591][930]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. None CameraShakeBase
+[2025.02.15-23.38.30:891][  8]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.38.32:424][100]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.38.33:591][170]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded in Outer /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.PlayerCameraManager_0.CameraModifier_CameraShake_0.  It will be nulled out on save. CameraShakeBase_0 CameraShakeBase
+[2025.02.15-23.38.50:157][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.38.50:157][162]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.38.50:157][162]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.38.50:157][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.38.50:161][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-23.38.50:168][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.38.50:191][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.15-23.38.50:191][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.02.15-23.38.50:191][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.02.15-23.38.50:193][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.02.15-23.38.50:196][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.38.50:199][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.15-23.38.50:231][163]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.02.15-23.39.15:842][555]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.15-23.39.15:849][555]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.15-23.39.15:855][555]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.15-23.39.15:863][556]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.15-23.39.16:747][608]LogShaderCompilers: Display: ================================================
+[2025.02.15-23.39.16:747][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-23.39.16:747][608]LogShaderCompilers: Display: Total job queries 9,897, among them cache hits 1,109 (11.21%), DDC hits 7,528 (76.06%), Duplicates 722 (7.30%)
+[2025.02.15-23.39.16:747][608]LogShaderCompilers: Display: Tracking 8,066 distinct input hashes that result in 7,411 distinct outputs (91.88%)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: RAM used: 4.98 MiB of 1.60 GiB budget. Usage: 0.30%
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Shaders Compiled: 538
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Jobs assigned 538, completed 538 (100%)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Average time worker was idle: 125.15 s
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Time job spent in pending queue: average 0.96 s, longest 16.11 s
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Job execution time: average 2.16 s, max 40.81 s
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Job life time (pending + execution): average 3.12 s, max 45.12
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Shader code size: average 10.015 KiB, min 1.892 KiB, max 141.992 KiB
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 174.26 s
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.44%
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Jobs were issued in 353 batches (only local compilation was used), average 1.04 jobs/batch
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Average processing rate: 3.09 jobs/sec
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Total thread time: 621.097 s
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Total thread preprocess time: 143.682 s
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Percentage time preprocessing: 23.13%
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Effective parallelization: 3.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    9 times, average 16.42 sec, max 34.03 sec, min 3.02 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   11 times, average 10.04 sec, max 14.39 sec, min 2.38 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   11 times, average 8.37 sec, max 11.12 sec, min 2.51 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    3 times, average 6.84 sec, max 6.95 sec, min 6.68 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 1.02 sec, max 4.10 sec, min 0.44 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 23.80% of total time (compiled    9 times, average 16.42 sec, max 34.03 sec, min 3.02 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 17.78% of total time (compiled   11 times, average 10.04 sec, max 14.39 sec, min 2.38 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                                 FLumenCardCS - 14.82% of total time (compiled   11 times, average 8.37 sec, max 11.12 sec, min 2.51 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.07% of total time (compiled  124 times, average 0.65 sec, max 4.78 sec, min 0.28 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.07% of total time (compiled  113 times, average 0.50 sec, max 3.64 sec, min 0.21 sec)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: === Material stats ===
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Materials Translated:    318
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Material Translation Only: 0.06 s (42%)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.02.15-23.39.16:748][608]LogShaderCompilers: Display: ================================================
+[2025.02.15-23.39.19:814][792]LogContentBrowser: Attempting asset rename: NewBlueprint -> KillPlane
+[2025.02.15-23.39.19:821][792]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.15-23.39.21:467][889]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane
+[2025.02.15-23.39.21:467][889]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.02.15-23.39.25:960][124]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.02.15-23.39.48:086][168]LogSlate: Window 'Save Asset As' being destroyed
+[2025.02.15-23.39.53:175][436]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LearningKit_Games/Assets/AddedAssets/Clear.Clear
+[2025.02.15-23.39.53:178][436]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.02.15-23.39.53:493][436]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.15-23.39.53:493][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.39.53:493][436]MaterialEditorStats: Shader Count: 0
+[2025.02.15-23.39.53:493][436]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.15-23.39.53:559][438]MaterialEditorStats: Base pass shader: 128 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.15-23.39.53:559][438]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.15-23.39.53:559][438]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.15-23.39.53:559][438]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.39.53:559][438]MaterialEditorStats: Shader Count: 4
+[2025.02.15-23.39.53:559][438]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.15-23.39.59:262][769]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.15-23.39.59:262][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.39.59:262][769]MaterialEditorStats: Shader Count: 0
+[2025.02.15-23.39.59:262][769]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.02.15-23.40.00:534][843]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.02.15-23.40.00:534][843]MaterialEditorStats: Texture samplers: 2/16
+[2025.02.15-23.40.00:534][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.40.00:534][843]MaterialEditorStats: Shader Count: 4
+[2025.02.15-23.40.00:534][843]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.02.15-23.40.05:304][122]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.15-23.40.05:304][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.40.05:304][122]MaterialEditorStats: Shader Count: 0
+[2025.02.15-23.40.05:304][122]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.02.15-23.40.06:551][193]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.02.15-23.40.06:551][193]MaterialEditorStats: Texture samplers: 2/16
+[2025.02.15-23.40.06:551][193]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.40.06:551][193]MaterialEditorStats: Shader Count: 4
+[2025.02.15-23.40.06:551][193]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.02.15-23.40.14:825][213]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-23.40.14:857][213]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.15-23.40.14:858][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.40.14:858][213]MaterialEditorStats: Shader Count: 0
+[2025.02.15-23.40.14:858][213]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.02.15-23.40.16:156][286]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.02.15-23.40.16:156][286]MaterialEditorStats: Texture samplers: 2/16
+[2025.02.15-23.40.16:156][286]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.40.16:156][286]MaterialEditorStats: Shader Count: 4
+[2025.02.15-23.40.16:156][286]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.02.15-23.40.21:157][585]LogMaterialEditor: Saving and Compiling material Clear
+[2025.02.15-23.40.21:317][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.02.15-23.40.23:303][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.15-23.40.23:318][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.40.23:353][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/Clear] ([1] browsable assets)...
+[2025.02.15-23.40.23:371][585]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LearningKit_Games/Assets/AddedAssets/Clear.Clear]
+[2025.02.15-23.40.23:371][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/Clear]
+[2025.02.15-23.40.23:373][585]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/Clear
+[2025.02.15-23.40.23:373][585]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Clear07DC45C340E84E84CD70ABBD53926096.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/Clear.uasset'
+[2025.02.15-23.40.23:383][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.468 ms (total: 4.31 sec)
+[2025.02.15-23.40.23:437][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.40.23:437][585]LogContentValidation: Enabled validators:
+[2025.02.15-23.40.23:437][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.40.23:437][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.40.23:437][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.40.23:437][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.40.23:437][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.40.23:437][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.40.23:437][585]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/Clear Validating asset
+[2025.02.15-23.40.23:447][585]MaterialEditorStats: Base pass shader: 221 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.02.15-23.40.23:447][585]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.02.15-23.40.23:447][585]MaterialEditorStats: Texture samplers: 2/16
+[2025.02.15-23.40.23:447][585]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.15-23.40.23:447][585]MaterialEditorStats: Shader Count: 10
+[2025.02.15-23.40.23:447][585]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.02.15-23.41.00:459][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.02.15-23.41.01:231][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.41.01:285][779]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/AddedContent/KillPlane] ([2] browsable assets)...
+[2025.02.15-23.41.01:327][779]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane]
+[2025.02.15-23.41.01:327][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AddedContent/KillPlane]
+[2025.02.15-23.41.01:331][779]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane
+[2025.02.15-23.41.01:331][779]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/KillPlane9812E54548889232FF3B06BAC237F415.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/KillPlane.uasset'
+[2025.02.15-23.41.01:341][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.993 ms (total: 4.42 sec)
+[2025.02.15-23.41.01:383][779]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.41.01:384][779]LogContentValidation: Enabled validators:
+[2025.02.15-23.41.01:384][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.41.01:384][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.41.01:384][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.41.01:384][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.41.01:384][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.41.01:384][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.41.01:384][779]AssetCheck: /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane Validating asset
+[2025.02.15-23.41.03:377][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane_C
+[2025.02.15-23.41.03:377][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane_C
+[2025.02.15-23.41.03:379][890]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane as actor: KillPlane_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.KillPlane_C_0
+[2025.02.15-23.41.03:380][890]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane as actor: KillPlane_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.KillPlane_C_0
+[2025.02.15-23.41.04:332][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.15-23.41.04:336][946]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.02.15-23.41.04:340][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane_C
+[2025.02.15-23.41.04:340][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane_C
+[2025.02.15-23.41.04:343][946]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane as actor: KillPlane_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.KillPlane_C_1
+[2025.02.15-23.41.04:344][946]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane as actor: KillPlane_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.KillPlane_C_1
+[2025.02.15-23.41.26:958][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8478.960938
+[2025.02.15-23.41.27:042][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-23.41.27:042][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8479.028320, Update Interval: 349.002350
+[2025.02.15-23.41.33:237][669]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.KillPlane_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1000.000 Y=10000.000 Z=0.000
+[2025.02.15-23.41.33:237][669]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.KillPlane_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1000.000 Y=10000.000 Z=0.000
+[2025.02.15-23.41.33:237][669]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.KillPlane_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1000.000 Y=10000.000 Z=0.000
+[2025.02.15-23.41.35:098][780]Cmd: TRANSACTION UNDO
+[2025.02.15-23.41.35:098][780]LogEditorTransaction: Undo Scale Elements
+[2025.02.15-23.42.13:125][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.42.13:217][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.02.15-23.42.13:229][ 21]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.15-23.42.13:230][ 21]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevel7FF5C5D24FEA64E1FD6D10898F5CC027.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.15-23.42.13:236][ 21]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.054
+[2025.02.15-23.42.13:243][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.557 ms (total: 4.54 sec)
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: Enabled validators:
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.42.13:298][ 21]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.42.13:298][ 21]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.15-23.42.14:558][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-23.42.14:567][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-23.42.14:567][ 96]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.42.14:569][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002552s)
+[2025.02.15-23.42.14:569][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.002582s)
+[2025.02.15-23.42.14:591][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.02.15-23.42.14:594][ 96]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.15-23.42.14:596][ 96]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2025.02.15-23.42.14:597][ 96]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.02.15-23.42.14:597][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-23.42.14:597][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-23.42.14:597][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-23.42.14:597][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-23.42.14:597][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-23.42.14:597][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-23.42.14:597][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-23.42.14:597][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-23.42.14:597][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-23.42.14:597][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-23.42.14:597][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-23.42.14:599][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-23.42.14:619][ 96]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.15-23.42.14:619][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-23.42.14:619][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-23.42.14:619][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-23.42.14:619][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.02.15-23.42.14:619][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.02.15-23.42.14:621][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.02.15-23.42.14:621][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.02.15-23.42.14:621][ 96]LogInit: FAudioDevice initialized with ID 37.
+[2025.02.15-23.42.14:621][ 96]LogAudio: Display: Audio Device (ID: 37) registered with world 'Map_BasicLevel'.
+[2025.02.15-23.42.14:621][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.02.15-23.42.14:623][ 96]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.15-23.42.14:625][ 96]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 60) at 2025.02.15-17.42.14
+[2025.02.15-23.42.14:625][ 96]LogWorld: Bringing up level for play took: 0.001352
+[2025.02.15-23.42.14:627][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.02.15-23.42.14:631][ 96]PIE: Server logged in
+[2025.02.15-23.42.14:632][ 96]PIE: Play in editor total start time 0.069 seconds.
+[2025.02.15-23.42.16:757][172]LogShaderCompilers: Display: ================================================
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Total job queries 9,970, among them cache hits 1,138 (11.41%), DDC hits 7,540 (75.63%), Duplicates 722 (7.24%)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Tracking 8,110 distinct input hashes that result in 7,437 distinct outputs (91.70%)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: RAM used: 4.99 MiB of 1.60 GiB budget. Usage: 0.30%
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Shaders Compiled: 570
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Jobs assigned 570, completed 570 (100%)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Average time worker was idle: 119.65 s
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Time job spent in pending queue: average 0.92 s, longest 16.11 s
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Job execution time: average 2.09 s, max 40.81 s
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Job life time (pending + execution): average 3.00 s, max 45.12
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Shader code size: average 9.887 KiB, min 1.892 KiB, max 141.992 KiB
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 184.81 s
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.43%
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Jobs were issued in 353 batches (only local compilation was used), average 1.04 jobs/batch
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Average processing rate: 3.08 jobs/sec
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Total thread time: 631.572 s
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Total thread preprocess time: 144.555 s
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Percentage time preprocessing: 22.89%
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Effective parallelization: 3.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    9 times, average 16.42 sec, max 34.03 sec, min 3.02 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   11 times, average 10.04 sec, max 14.39 sec, min 2.38 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   11 times, average 8.37 sec, max 11.12 sec, min 2.51 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    3 times, average 6.84 sec, max 6.95 sec, min 6.68 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS (compiled    5 times, average 0.90 sec, max 1.14 sec, min 0.46 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 23.40% of total time (compiled    9 times, average 16.42 sec, max 34.03 sec, min 3.02 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 17.48% of total time (compiled   11 times, average 10.04 sec, max 14.39 sec, min 2.38 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                                 FLumenCardCS - 14.57% of total time (compiled   11 times, average 8.37 sec, max 11.12 sec, min 2.51 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.36% of total time (compiled  132 times, average 0.64 sec, max 4.78 sec, min 0.28 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.23% of total time (compiled  120 times, average 0.49 sec, max 3.64 sec, min 0.21 sec)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: === Material stats ===
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Materials Translated:    328
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Material Translation Only: 0.07 s (42%)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.02.15-23.42.16:758][172]LogShaderCompilers: Display: ================================================
+[2025.02.15-23.42.30:331][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.42.30:331][984]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.42.30:331][984]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.42.30:332][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.42.30:336][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-23.42.30:342][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.42.30:362][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.42.30:363][984]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.02.15-23.42.30:363][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.02.15-23.42.30:365][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.02.15-23.42.30:372][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.15-23.42.30:422][985]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.02.15-23.42.33:817][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.02.15-23.42.53:976][182]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.15-23.42.54:144][182]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.42.54:144][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.42.54:180][182]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LearningKit_Games/Blueprints/AddedContent/KillPlane.KillPlane
+	Asset Type: Blueprint
+[2025.02.15-23.42.54:567][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.15-23.42.54:644][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.02.15-23.42.54:667][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.02.15-23.42.54:687][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.15-23.42.54:719][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.02.15-23.43.58:058][756]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.15-23.46.58:056][410]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::K2_GetActorLocation' [The specified module could not be found.]
+[2025.02.15-23.47.01:938][621]LogEditorTransaction: Undo Move Node
+[2025.02.15-23.47.04:963][775]LogEditorTransaction: Undo Move Node
+[2025.02.15-23.47.07:121][885]LogEditorTransaction: Redo Move Node
+[2025.02.15-23.47.07:498][886]LogEditorTransaction: Redo Move Node
+[2025.02.15-23.48.00:866][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.48.00:907][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter] ([2] browsable assets)...
+[2025.02.15-23.48.00:958][873]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter]
+[2025.02.15-23.48.00:958][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter]
+[2025.02.15-23.48.00:996][873]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2025.02.15-23.48.00:997][873]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKit_PlayerCharacter72B067BF45957ED747DED69807D93B0D.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2025.02.15-23.48.01:005][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.128 ms (total: 4.68 sec)
+[2025.02.15-23.48.01:041][873]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.48.01:041][873]LogContentValidation: Enabled validators:
+[2025.02.15-23.48.01:041][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.48.01:041][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.48.01:041][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.48.01:041][873]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.48.01:041][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.48.01:041][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.48.01:041][873]AssetCheck: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter Validating asset
+[2025.02.15-23.48.02:113][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.02.15-23.48.14:342][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8886.201172
+[2025.02.15-23.48.14:437][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.15-23.48.14:437][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8886.276367, Update Interval: 342.479919
+[2025.02.15-23.48.23:966][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-23.48.23:970][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-23.48.23:991][185]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.48.23:995][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002596s)
+[2025.02.15-23.48.23:995][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.002632s)
+[2025.02.15-23.48.24:018][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.15-23.48.24:025][185]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.15-23.48.24:026][185]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2025.02.15-23.48.24:027][185]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.02.15-23.48.24:027][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-23.48.24:027][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-23.48.24:027][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-23.48.24:027][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-23.48.24:027][185]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-23.48.24:027][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-23.48.24:027][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-23.48.24:027][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-23.48.24:027][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-23.48.24:027][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-23.48.24:027][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-23.48.24:029][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-23.48.24:051][185]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.15-23.48.24:051][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-23.48.24:051][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-23.48.24:051][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-23.48.24:052][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.02.15-23.48.24:052][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.02.15-23.48.24:054][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.02.15-23.48.24:054][185]LogInit: FAudioDevice initialized with ID 38.
+[2025.02.15-23.48.24:054][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.02.15-23.48.24:054][185]LogAudio: Display: Audio Device (ID: 38) registered with world 'Map_BasicLevel'.
+[2025.02.15-23.48.24:054][185]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.02.15-23.48.24:056][185]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.15-23.48.24:058][185]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 60) at 2025.02.15-17.48.24
+[2025.02.15-23.48.24:058][185]LogWorld: Bringing up level for play took: 0.001363
+[2025.02.15-23.48.24:059][185]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2025.02.15-23.48.24:063][185]PIE: Server logged in
+[2025.02.15-23.48.24:064][185]PIE: Play in editor total start time 0.094 seconds.
+[2025.02.15-23.48.42:981][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.48.42:981][310]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.48.42:981][310]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.48.42:981][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.48.42:986][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-23.48.42:992][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.48.43:015][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.15-23.48.43:016][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.02.15-23.48.43:016][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.02.15-23.48.43:017][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.02.15-23.48.43:021][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.48.43:024][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.02.15-23.48.43:097][311]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2025.02.15-23.49.40:201][514]LogEditorTransaction: Undo Move Node
+[2025.02.15-23.49.42:419][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.49.42:456][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode] ([2] browsable assets)...
+[2025.02.15-23.49.42:456][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode]
+[2025.02.15-23.49.42:461][623]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode
+[2025.02.15-23.49.42:461][623]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKitGameMode66F0E16741FBB3AE8E7827AD112857E8.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset'
+[2025.02.15-23.49.42:469][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.302 ms (total: 4.73 sec)
+[2025.02.15-23.49.42:522][623]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.49.42:522][623]LogContentValidation: Enabled validators:
+[2025.02.15-23.49.42:522][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.49.42:522][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.49.42:522][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.49.42:522][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.49.42:522][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.49.42:522][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.49.42:522][623]AssetCheck: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode Validating asset
+[2025.02.15-23.49.43:318][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.02.15-23.50.13:814][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.15-23.50.14:316][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.50.14:371][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter] ([2] browsable assets)...
+[2025.02.15-23.50.14:411][340]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter]
+[2025.02.15-23.50.14:411][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter]
+[2025.02.15-23.50.14:448][340]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2025.02.15-23.50.14:449][340]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKit_PlayerCharacter1C9966FC44BF646326F7CC96BAC88823.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2025.02.15-23.50.14:458][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.431 ms (total: 4.87 sec)
+[2025.02.15-23.50.14:520][340]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.50.14:520][340]LogContentValidation: Enabled validators:
+[2025.02.15-23.50.14:520][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.50.14:520][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.50.14:520][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.50.14:520][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.50.14:520][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.50.14:520][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.50.14:520][340]AssetCheck: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter Validating asset
+[2025.02.15-23.50.21:734][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.15-23.50.21:771][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter] ([2] browsable assets)...
+[2025.02.15-23.50.21:810][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter]
+[2025.02.15-23.50.21:810][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter]
+[2025.02.15-23.50.21:848][765]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2025.02.15-23.50.21:849][765]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKit_PlayerCharacterD56EDCB24C3F0EB03D1B5780708CD481.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2025.02.15-23.50.21:856][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.375 ms (total: 4.99 sec)
+[2025.02.15-23.50.21:905][765]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.15-23.50.21:905][765]LogContentValidation: Enabled validators:
+[2025.02.15-23.50.21:905][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.15-23.50.21:905][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.15-23.50.21:905][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.15-23.50.21:905][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.15-23.50.21:905][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.15-23.50.21:905][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.15-23.50.21:905][765]AssetCheck: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter Validating asset
+[2025.02.15-23.50.22:318][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.02.15-23.50.24:679][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.15-23.50.24:684][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.15-23.50.24:684][901]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.50.24:687][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002602s)
+[2025.02.15-23.50.24:687][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.002633s)
+[2025.02.15-23.50.24:712][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.15-23.50.24:720][901]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.15-23.50.24:722][901]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2025.02.15-23.50.24:723][901]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.02.15-23.50.24:723][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.15-23.50.24:723][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.15-23.50.24:723][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.15-23.50.24:723][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.15-23.50.24:723][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.15-23.50.24:723][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.15-23.50.24:723][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.15-23.50.24:723][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.15-23.50.24:723][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.15-23.50.24:723][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.15-23.50.24:723][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.15-23.50.24:726][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.15-23.50.24:745][901]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.15-23.50.24:745][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.15-23.50.24:745][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.15-23.50.24:745][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.15-23.50.24:746][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.02.15-23.50.24:746][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.02.15-23.50.24:748][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.02.15-23.50.24:748][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.02.15-23.50.24:748][901]LogInit: FAudioDevice initialized with ID 39.
+[2025.02.15-23.50.24:748][901]LogAudio: Display: Audio Device (ID: 39) registered with world 'Map_BasicLevel'.
+[2025.02.15-23.50.24:748][901]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.02.15-23.50.24:750][901]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.15-23.50.24:752][901]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 60) at 2025.02.15-17.50.24
+[2025.02.15-23.50.24:752][901]LogWorld: Bringing up level for play took: 0.001437
+[2025.02.15-23.50.24:754][901]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2025.02.15-23.50.24:757][901]PIE: Server logged in
+[2025.02.15-23.50.24:759][901]PIE: Play in editor total start time 0.075 seconds.
+[2025.02.15-23.50.55:497][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.50.55:497][737]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.15-23.50.55:498][737]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.15-23.50.55:498][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.50.55:502][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.15-23.50.55:510][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.15-23.50.55:534][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.15-23.50.55:535][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.02.15-23.50.55:535][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.02.15-23.50.55:537][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.02.15-23.50.55:541][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.15-23.50.55:543][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.15-23.50.55:616][738]LogPlayLevel: Display: Destroying online subsystem :Context_71
