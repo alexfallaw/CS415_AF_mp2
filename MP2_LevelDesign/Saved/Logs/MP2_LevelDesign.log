@@ -12391,3 +12391,140 @@ Sampler Limit: 32
 [2025.02.16-03.47.32:757][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
 [2025.02.16-03.47.32:764][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
 [2025.02.16-03.47.32:800][910]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2025.02.16-03.48.10:112][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-03.48.10:201][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.02.16-03.48.10:215][481]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.16-03.48.10:216][481]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevelD0B93A32464B28BF2ADB2794069B65FD.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.16-03.48.10:222][481]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.058
+[2025.02.16-03.48.10:230][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.545 ms (total: 7.95 sec)
+[2025.02.16-03.48.10:281][481]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-03.48.10:281][481]LogContentValidation: Enabled validators:
+[2025.02.16-03.48.10:282][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-03.48.10:282][481]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-03.48.10:282][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-03.48.10:282][481]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-03.48.10:282][481]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-03.48.10:282][481]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-03.48.10:282][481]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.16-03.48.11:254][539]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.16-03.48.11:263][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.16-03.48.11:310][539]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.16-03.48.11:312][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002632s)
+[2025.02.16-03.48.11:312][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.002678s)
+[2025.02.16-03.48.11:336][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.02.16-03.48.11:339][539]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.16-03.48.11:341][539]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2025.02.16-03.48.11:342][539]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2025.02.16-03.48.11:342][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.16-03.48.11:342][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.16-03.48.11:342][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.16-03.48.11:342][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.16-03.48.11:342][539]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.16-03.48.11:342][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.16-03.48.11:342][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.16-03.48.11:342][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.16-03.48.11:342][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.16-03.48.11:342][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.16-03.48.11:342][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.16-03.48.11:344][539]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.16-03.48.11:364][539]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.16-03.48.11:364][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.16-03.48.11:364][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.16-03.48.11:364][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.16-03.48.11:365][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2025.02.16-03.48.11:365][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2025.02.16-03.48.11:367][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2025.02.16-03.48.11:367][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2025.02.16-03.48.11:367][539]LogInit: FAudioDevice initialized with ID 53.
+[2025.02.16-03.48.11:367][539]LogAudio: Display: Audio Device (ID: 53) registered with world 'Map_BasicLevel'.
+[2025.02.16-03.48.11:367][539]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2025.02.16-03.48.11:370][539]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.16-03.48.11:371][539]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 60) at 2025.02.15-21.48.11
+[2025.02.16-03.48.11:372][539]LogWorld: Bringing up level for play took: 0.001344
+[2025.02.16-03.48.11:373][539]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2025.02.16-03.48.11:378][539]PIE: Server logged in
+[2025.02.16-03.48.11:379][539]PIE: Play in editor total start time 0.12 seconds.
+[2025.02.16-03.48.54:589][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.16-03.48.54:589][119]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.16-03.48.54:589][119]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.16-03.48.54:589][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.16-03.48.54:593][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.16-03.48.54:600][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.16-03.48.54:625][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.16-03.48.54:625][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2025.02.16-03.48.54:625][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.02.16-03.48.54:628][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.02.16-03.48.54:635][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.02.16-03.48.54:685][120]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2025.02.16-03.51.56:004][266]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\aleza\Downloads\heroking\Heroking-Regular.ttf)
+[2025.02.16-03.52.13:575][266]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.02.16-03.52.13:581][266]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.02.16-03.52.13:584][266]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.02.16-03.52.13:606][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.16-03.52.13:611][267]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.16-03.52.13:615][267]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.02.16-03.52.13:617][267]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.16-03.52.13:621][267]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.02.16-03.52.20:625][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-03.52.20:677][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular] ([1] browsable assets)...
+[2025.02.16-03.52.20:677][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular]
+[2025.02.16-03.52.20:678][682]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular
+[2025.02.16-03.52.20:678][682]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Heroking-Regular1967095D4B095EBD5FDBDAB5907A371D.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/Heroking-Regular.uasset'
+[2025.02.16-03.52.20:689][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.610 ms (total: 8.01 sec)
+[2025.02.16-03.52.20:741][682]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-03.52.20:741][682]LogContentValidation: Enabled validators:
+[2025.02.16-03.52.20:741][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-03.52.20:741][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-03.52.20:741][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-03.52.20:741][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-03.52.20:741][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-03.52.20:741][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-03.52.20:742][682]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular Validating asset
+[2025.02.16-03.52.24:189][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-03.52.24:242][882]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/health_full] ([1] browsable assets)...
+[2025.02.16-03.52.24:242][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/health_full]
+[2025.02.16-03.52.24:246][882]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/health_full
+[2025.02.16-03.52.24:246][882]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/health_fullF6DD48EB4A23F826F09A5C9ABDA7947E.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/health_full.uasset'
+[2025.02.16-03.52.24:259][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.329 ms (total: 8.08 sec)
+[2025.02.16-03.52.24:308][882]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-03.52.24:308][882]LogContentValidation: Enabled validators:
+[2025.02.16-03.52.24:308][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-03.52.24:308][882]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-03.52.24:308][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-03.52.24:308][882]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-03.52.24:308][882]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-03.52.24:308][882]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-03.52.24:308][882]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/health_full Validating asset
+[2025.02.16-03.52.25:023][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-03.52.25:059][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/health_empty] ([1] browsable assets)...
+[2025.02.16-03.52.25:059][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/health_empty]
+[2025.02.16-03.52.25:061][921]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/health_empty
+[2025.02.16-03.52.25:061][921]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/health_empty879AEDD542066E592CAC13A19FD9ECE8.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/health_empty.uasset'
+[2025.02.16-03.52.25:071][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.787 ms (total: 8.13 sec)
+[2025.02.16-03.52.25:124][921]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-03.52.25:124][921]LogContentValidation: Enabled validators:
+[2025.02.16-03.52.25:124][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-03.52.25:124][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-03.52.25:124][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-03.52.25:124][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-03.52.25:124][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-03.52.25:124][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-03.52.25:124][921]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/health_empty Validating asset
+[2025.02.16-03.52.26:038][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-03.52.26:092][974]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular_Font] ([1] browsable assets)...
+[2025.02.16-03.52.26:092][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular_Font]
+[2025.02.16-03.52.26:093][974]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular_Font
+[2025.02.16-03.52.26:093][974]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Heroking-Regular_FontD4DD41834F06A03FA8C9548A67433B39.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/Heroking-Regular_Font.uasset'
+[2025.02.16-03.52.26:100][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.218 ms (total: 8.19 sec)
+[2025.02.16-03.52.26:157][974]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-03.52.26:157][974]LogContentValidation: Enabled validators:
+[2025.02.16-03.52.26:157][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-03.52.26:157][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-03.52.26:157][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-03.52.26:157][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-03.52.26:157][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-03.52.26:157][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-03.52.26:158][974]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/Heroking-Regular_Font Validating asset
+[2025.02.16-03.52.32:508][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23551.886719
+[2025.02.16-03.52.32:608][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-03.52.32:608][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23551.972656, Update Interval: 336.741241
