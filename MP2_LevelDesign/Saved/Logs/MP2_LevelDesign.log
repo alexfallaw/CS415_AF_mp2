@@ -13735,3 +13735,106 @@ Sampler Limit: 32
 [2025.02.16-04.39.53:117][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.16-04.39.53:117][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.16-04.39.53:117][940]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.16-04.42.27:117][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.16-04.42.27:537][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-04.42.27:596][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner] ([2] browsable assets)...
+[2025.02.16-04.42.27:597][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner]
+[2025.02.16-04.42.27:603][895]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner
+[2025.02.16-04.42.27:603][895]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/WBP_ScoreSpawner957001CF4E5D350B8BA1FA86626829C7.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.uasset'
+[2025.02.16-04.42.27:612][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.732 ms (total: 11.3 sec)
+[2025.02.16-04.42.27:664][895]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-04.42.27:664][895]LogContentValidation: Enabled validators:
+[2025.02.16-04.42.27:664][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-04.42.27:664][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-04.42.27:664][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-04.42.27:664][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-04.42.27:664][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-04.42.27:664][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-04.42.27:664][895]AssetCheck: /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner Validating asset
+[2025.02.16-04.42.53:483][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.16-04.42.53:942][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-04.42.53:982][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner] ([2] browsable assets)...
+[2025.02.16-04.42.53:982][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner]
+[2025.02.16-04.42.53:990][386]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner
+[2025.02.16-04.42.53:991][386]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/WBP_ScoreSpawner8656BDCA4ACDCA07C885A2999AEFA033.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.uasset'
+[2025.02.16-04.42.53:999][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.756 ms (total: 11.4 sec)
+[2025.02.16-04.42.54:044][386]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-04.42.54:044][386]LogContentValidation: Enabled validators:
+[2025.02.16-04.42.54:044][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-04.42.54:044][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-04.42.54:044][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-04.42.54:044][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-04.42.54:044][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-04.42.54:044][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-04.42.54:045][386]AssetCheck: /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner Validating asset
+[2025.02.16-04.42.56:271][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.16-04.42.56:275][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.16-04.42.56:276][517]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.16-04.42.56:278][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002735s)
+[2025.02.16-04.42.56:278][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.002767s)
+[2025.02.16-04.42.56:303][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.02.16-04.42.56:310][517]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.16-04.42.56:311][517]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2025.02.16-04.42.56:311][517]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2025.02.16-04.42.56:311][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.16-04.42.56:311][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.16-04.42.56:311][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.16-04.42.56:311][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.16-04.42.56:311][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.16-04.42.56:311][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.16-04.42.56:311][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.16-04.42.56:311][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.16-04.42.56:311][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.16-04.42.56:311][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.16-04.42.56:312][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.16-04.42.56:314][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.16-04.42.56:334][517]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.16-04.42.56:334][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.16-04.42.56:334][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.16-04.42.56:334][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.16-04.42.56:335][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2025.02.16-04.42.56:335][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2025.02.16-04.42.56:337][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2025.02.16-04.42.56:337][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2025.02.16-04.42.56:337][517]LogInit: FAudioDevice initialized with ID 61.
+[2025.02.16-04.42.56:337][517]LogAudio: Display: Audio Device (ID: 61) registered with world 'Map_BasicLevel'.
+[2025.02.16-04.42.56:337][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2025.02.16-04.42.56:340][517]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.16-04.42.56:342][517]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 60) at 2025.02.15-22.42.56
+[2025.02.16-04.42.56:342][517]LogWorld: Bringing up level for play took: 0.001451
+[2025.02.16-04.42.56:344][517]LogOnline: OSS: Created online subsystem instance for: :Context_109
+[2025.02.16-04.42.56:350][517]PIE: Server logged in
+[2025.02.16-04.42.56:351][517]PIE: Play in editor total start time 0.076 seconds.
+[2025.02.16-04.43.37:642][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.16-04.43.37:642][982]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.16-04.43.37:642][982]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.16-04.43.37:642][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.16-04.43.37:662][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.16-04.43.37:669][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.16-04.43.37:693][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.16-04.43.37:693][982]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2025.02.16-04.43.37:693][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.02.16-04.43.37:695][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.02.16-04.43.37:700][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.16-04.43.37:703][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.02.16-04.43.37:756][983]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2025.02.16-04.43.56:572][ 44]LogEditorTransaction: Undo Move Node
+[2025.02.16-04.44.03:318][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26646.974609
+[2025.02.16-04.44.03:417][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-04.44.03:417][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26647.060547, Update Interval: 310.896942
+[2025.02.16-04.44.39:304][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.16-04.44.39:840][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-04.44.39:893][446]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode] ([2] browsable assets)...
+[2025.02.16-04.44.39:893][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode]
+[2025.02.16-04.44.39:899][446]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode
+[2025.02.16-04.44.39:900][446]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKitGameMode19876AED465B953E2D9436B299397121.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset'
+[2025.02.16-04.44.39:908][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.623 ms (total: 11.4 sec)
+[2025.02.16-04.44.39:960][446]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-04.44.39:960][446]LogContentValidation: Enabled validators:
+[2025.02.16-04.44.39:960][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-04.44.39:960][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-04.44.39:960][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-04.44.39:960][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-04.44.39:960][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-04.44.39:960][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-04.44.39:960][446]AssetCheck: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode Validating asset
