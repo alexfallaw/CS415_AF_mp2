@@ -12,7 +12,9 @@
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/UI/WBP_HUD.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/Clear.uasset",
-				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/KillPlane.uasset"
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/KillPlane.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_DamageCube.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_HealthPickup.uasset"
 			]
 		}
 	]
