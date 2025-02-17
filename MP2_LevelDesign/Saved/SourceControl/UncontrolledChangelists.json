@@ -12,7 +12,6 @@
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/UI/WBP_HUD.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/Clear.uasset",
-				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/KillPlane.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_DamageCube.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_HealthPickup.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_HealthhPickup.uasset",
@@ -23,7 +22,11 @@
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/Heroking-Regular_Font.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_ScorePickup.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.uasset",
-				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/VFX/Emitters/Character/PEN_Twinkles_System.uasset"
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/VFX/Emitters/Character/PEN_Twinkles_System.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedCharacters/BP_Pursuer.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedCharacters/Pursuer_AIController.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedCharacters/EAIState.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/KillPlane.uasset"
 			]
 		}
 	]
