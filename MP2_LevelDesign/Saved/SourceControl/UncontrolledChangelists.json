@@ -30,6 +30,14 @@
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedCharacters/BTTask_Roam.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedCharacters/Pursuer_Blackboard.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedCharacters/Pursuer_Tree.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/Enemy_Character.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/Enemy_Controller.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/Characters/Character/Material/Enemy_Hood.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/Characters/Character/Material/Enemy_Tunic.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BB_Enemy.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BT_Enemy.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.uasset",
+				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.uasset",
 				"C:/Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/KillPlane.uasset"
 			]
 		}
