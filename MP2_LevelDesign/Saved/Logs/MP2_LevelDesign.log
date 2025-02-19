@@ -1539,3 +1539,68 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.02.19-01.01.54:100][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2025.02.19-01.01.54:128][617]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2025.02.19-01.02.24:176][970]LogDerivedDataCache: C:/Users/aleza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.19-01.03.32:870][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.BTT_ChasePlayer
+[2025.02.19-01.03.32:870][949]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.02.19-01.03.42:567][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-01.03.42:624][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer] ([2] browsable assets)...
+[2025.02.19-01.03.42:624][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer]
+[2025.02.19-01.03.42:626][764]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer
+[2025.02.19-01.03.42:627][764]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_ChasePlayer58F7803841721751D3AC3B854710205D.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.uasset'
+[2025.02.19-01.03.42:635][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.739 ms (total: 128.426 ms)
+[2025.02.19-01.03.42:687][764]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-01.03.42:687][764]LogContentValidation: Enabled validators:
+[2025.02.19-01.03.42:687][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-01.03.42:687][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-01.03.42:687][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-01.03.42:687][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-01.03.42:687][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-01.03.42:687][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-01.03.42:687][764]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer Validating asset
+[2025.02.19-01.03.54:349][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.02.19-01.03.55:806][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-01.03.55:871][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer] ([2] browsable assets)...
+[2025.02.19-01.03.55:871][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer]
+[2025.02.19-01.03.55:874][856]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer
+[2025.02.19-01.03.55:875][856]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_ChasePlayer9EB3B95844AFE3DCE4A70E9173090FD4.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.uasset'
+[2025.02.19-01.03.55:882][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.237 ms (total: 204.663 ms)
+[2025.02.19-01.03.55:938][856]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-01.03.55:938][856]LogContentValidation: Enabled validators:
+[2025.02.19-01.03.55:938][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-01.03.55:938][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-01.03.55:938][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-01.03.55:938][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-01.03.55:938][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-01.03.55:938][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-01.03.55:938][856]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer Validating asset
+[2025.02.19-01.04.01:096][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-01.04.01:194][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.19-01.04.01:212][397]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.19-01.04.01:212][397]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevel7A00B12845F6480D9413FFA428762904.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.19-01.04.01:221][397]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.066
+[2025.02.19-01.04.01:233][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.672 ms (total: 342.336 ms)
+[2025.02.19-01.04.01:288][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-01.04.01:288][397]LogContentValidation: Enabled validators:
+[2025.02.19-01.04.01:288][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-01.04.01:288][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-01.04.01:288][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-01.04.01:288][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-01.04.01:288][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-01.04.01:288][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-01.04.01:289][397]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.19-01.04.02:679][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.19-01.04.04:018][550]LogSlate: Window 'Save Content' being destroyed
+[2025.02.19-01.04.04:026][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.19-01.04.04:071][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AI/BT_Enemy] ([1] browsable assets)...
+[2025.02.19-01.04.04:071][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AI/BT_Enemy]
+[2025.02.19-01.04.04:074][550]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AI/BT_Enemy
+[2025.02.19-01.04.04:074][550]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BT_Enemy3489B69A4373BB6333C6769748D5E0CB.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BT_Enemy.uasset'
+[2025.02.19-01.04.04:082][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.829 ms (total: 399.165 ms)
+[2025.02.19-01.04.04:137][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.19-01.04.04:137][550]LogContentValidation: Enabled validators:
+[2025.02.19-01.04.04:137][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.19-01.04.04:137][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.19-01.04.04:137][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.19-01.04.04:137][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.19-01.04.04:137][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.19-01.04.04:137][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.19-01.04.04:137][550]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/BT_Enemy Validating asset
