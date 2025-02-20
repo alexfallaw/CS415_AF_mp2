@@ -1437,3 +1437,1067 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.02.20-21.51.17:789][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.20-21.51.17:789][909]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.20-21.51.17:789][909]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.20-21.52.37:580][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 327.944122
+[2025.02.20-21.52.37:658][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-21.52.37:658][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 328.014954, Update Interval: 308.161255
+[2025.02.20-21.53.02:158][614]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.02.20-21.53.02:235][617]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.02.20-21.53.02:289][618]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.02.20-21.53.05:048][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.05:048][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.05:049][907]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_0
+[2025.02.20-21.53.05:050][907]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_0
+[2025.02.20-21.53.07:711][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.20-21.53.07:713][197]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.02.20-21.53.07:718][197]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.07:718][197]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.07:719][197]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_2
+[2025.02.20-21.53.07:719][197]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_2
+[2025.02.20-21.53.11:570][593]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.11:570][593]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.11:571][593]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_3
+[2025.02.20-21.53.11:571][593]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_3
+[2025.02.20-21.53.13:318][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.20-21.53.13:321][774]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.02.20-21.53.13:325][774]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.13:325][774]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner_C
+[2025.02.20-21.53.13:326][774]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_4
+[2025.02.20-21.53.13:327][774]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_HealthSpawner.WBP_HealthSpawner as actor: WBP_HealthSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_HealthSpawner_C_4
+[2025.02.20-21.53.25:870][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-21.53.25:883][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-21.53.25:888][177]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.20-21.53.25:888][177]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.20-21.53.25:888][177]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-21.53.25:893][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005800s)
+[2025.02.20-21.53.25:893][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.005837s)
+[2025.02.20-21.53.25:904][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.20-21.53.25:907][177]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-21.53.25:909][177]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2025.02.20-21.53.25:910][177]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.20-21.53.25:910][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-21.53.25:910][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-21.53.25:910][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-21.53.25:910][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-21.53.25:910][177]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-21.53.25:910][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-21.53.25:910][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-21.53.25:910][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-21.53.25:910][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-21.53.25:910][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-21.53.25:910][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-21.53.25:912][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-21.53.25:932][177]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-21.53.25:932][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-21.53.25:932][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-21.53.25:932][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-21.53.25:933][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.20-21.53.25:933][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.20-21.53.25:934][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.20-21.53.25:934][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.20-21.53.25:934][177]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.20-21.53.25:935][177]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_BasicLevel'.
+[2025.02.20-21.53.25:935][177]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.20-21.53.25:937][177]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-21.53.25:940][177]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-15.53.25
+[2025.02.20-21.53.25:945][177]LogWorld: Bringing up level for play took: 0.007486
+[2025.02.20-21.53.25:947][177]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.02.20-21.53.25:960][177]PIE: Server logged in
+[2025.02.20-21.53.25:961][177]PIE: Play in editor total start time 0.085 seconds.
+[2025.02.20-21.53.30:261][658]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.30:261][658]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.53.30:261][658]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.30:261][658]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.53.32:209][888]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.32:209][888]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.53.33:330][ 17]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.33:330][ 17]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-21.53.36:219][354]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.36:219][354]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.53.37:922][558]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.37:922][558]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.53.39:797][783]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.39:797][783]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-21.53.43:574][227]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.43:574][227]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.53.50:776][ 80]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.50:777][ 80]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.53.50:910][ 96]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.50:910][ 96]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.53.54:252][489]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.54:252][489]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.53.54:846][559]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.54:846][559]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.53.55:082][586]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.55:082][586]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.53.57:323][847]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.57:323][847]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.53.57:780][901]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.57:780][901]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.53.57:830][907]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.57:831][907]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.53.58:613][  1]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.53.58:613][  1]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.54.01:723][371]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.54.01:723][371]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.54.01:815][382]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.54.01:815][382]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.54.15:955][ 45]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.54.15:955][ 45]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.54.15:988][ 49]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.54.15:988][ 49]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.54.22:701][844]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.54.22:701][844]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-21.54.22:710][845]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-21.54.22:710][845]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-21.54.24:215][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-21.54.24:215][ 22]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-21.54.24:216][ 22]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-21.54.24:217][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-21.54.24:221][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-21.54.24:224][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-21.54.24:236][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-21.54.24:236][ 22]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.20-21.54.24:236][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.20-21.54.24:238][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.20-21.54.24:246][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.20-21.54.24:289][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.02.20-21.57.11:469][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.11:469][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.11:470][666]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_0
+[2025.02.20-21.57.11:470][666]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_0
+[2025.02.20-21.57.12:269][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.20-21.57.12:271][742]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.02.20-21.57.12:276][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.12:276][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.12:278][742]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_2
+[2025.02.20-21.57.12:278][742]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_2
+[2025.02.20-21.57.15:572][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScorePickup.WBP_ScorePickup_C
+[2025.02.20-21.57.15:572][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScorePickup.WBP_ScorePickup_C
+[2025.02.20-21.57.15:574][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScorePickup.WBP_ScorePickup as actor: WBP_ScorePickup_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScorePickup_C_0
+[2025.02.20-21.57.15:575][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScorePickup.WBP_ScorePickup as actor: WBP_ScorePickup_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScorePickup_C_0
+[2025.02.20-21.57.18:769][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.02.20-21.57.18:773][415]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.02.20-21.57.19:897][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.19:897][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.19:898][514]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_4
+[2025.02.20-21.57.19:898][514]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_4
+[2025.02.20-21.57.21:176][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.20-21.57.21:178][642]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.02.20-21.57.21:182][642]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.21:182][642]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner_C
+[2025.02.20-21.57.21:184][642]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_6
+[2025.02.20-21.57.21:184][642]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/AddedContent/WBP_ScoreSpawner.WBP_ScoreSpawner as actor: WBP_ScoreSpawner_C /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel:PersistentLevel.WBP_ScoreSpawner_C_6
+[2025.02.20-21.57.49:054][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 639.421143
+[2025.02.20-21.57.49:125][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-21.57.49:125][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 639.481506, Update Interval: 313.465973
+[2025.02.20-21.57.52:551][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-21.57.52:642][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.20-21.57.52:658][143]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.20-21.57.52:659][143]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevel6DC253EF414872B05BEAD78C76CAA5CF.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.20-21.57.52:667][143]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.054
+[2025.02.20-21.57.52:674][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.189 ms (total: 222.440 ms)
+[2025.02.20-21.57.52:728][143]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-21.57.52:729][143]LogContentValidation: Enabled validators:
+[2025.02.20-21.57.52:729][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-21.57.52:729][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-21.57.52:729][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-21.57.52:729][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-21.57.52:729][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-21.57.52:729][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-21.57.52:729][143]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.20-21.58.20:686][164]LogContentBrowser: Attempting asset rename: AI -> PursuerEnemy
+[2025.02.20-21.58.20:692][164]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.20-21.58.26:638][164]LogSlate: Window 'Message' being destroyed
+[2025.02.20-21.58.26:643][164]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BTT_FindRandomPatrol
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.02.20-21.58.39:474][359]LogSlate: Window 'Message' being destroyed
+[2025.02.20-21.58.39:479][359]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BTT_FindRandomPatrol
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.02.20-21.58.52:658][798]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.20-21.58.52:705][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.20-21.58.53:275][798]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.02.20-21.59.14:930][798]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.20-21.59.15:142][803]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.02.20-21.59.51:337][631]LogContentBrowser: Attempting asset rename: AI -> PursuerEnemy
+[2025.02.20-21.59.56:515][631]LogSlate: Window 'Message' being destroyed
+[2025.02.20-21.59.56:520][631]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BTT_FindRandomPatrol
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.02.20-21.59.56:527][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol.BTT_FindRandomPatrol_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.PackageMetaData'
+[2025.02.20-21.59.56:527][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol.SKEL_BTT_FindRandomPatrol_C:ReceiveExecuteAI' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.PackageMetaData'
+[2025.02.20-21.59.56:527][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol.SKEL_BTT_FindRandomPatrol_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.PackageMetaData'
+[2025.02.20-21.59.56:527][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol.BTT_FindRandomPatrol_C:ReceiveExecuteAI' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character:UpdateWalkSpeed.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character:SetAnim.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character:ResetEnemy.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.SKEL_Enemy_Character_C:ReceivePossessed' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.SKEL_Enemy_Character_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.SKEL_Enemy_Character_C:UserConstructionScript' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.SKEL_Enemy_Character_C:UpdateWalkSpeed' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.SKEL_Enemy_Character_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character_C:ReceivePossessed' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:547][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character_C:UpdateWalkSpeed' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Character.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.Enemy_Controller:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.Enemy_Controller_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.Enemy_Controller:GetPlayerDist.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.SKEL_Enemy_Controller_C:ReceivePossess' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.SKEL_Enemy_Controller_C:BndEvt__Enemy_Controller_AIPerception_K2Node_ComponentBoundEvent_0_ActorPerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.SKEL_Enemy_Controller_C:StartEnemyTimer' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.SKEL_Enemy_Controller_C:UserConstructionScript' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.SKEL_Enemy_Controller_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:562][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.Enemy_Controller_C:ReceivePossess' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/Enemy_Controller.PackageMetaData'
+[2025.02.20-21.59.56:574][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer.BTT_ChasePlayer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.PackageMetaData'
+[2025.02.20-21.59.56:575][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer.SKEL_BTT_ChasePlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.PackageMetaData'
+[2025.02.20-21.59.56:575][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer.SKEL_BTT_ChasePlayer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.PackageMetaData'
+[2025.02.20-21.59.56:575][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer.BTT_ChasePlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_ChasePlayer.PackageMetaData'
+[2025.02.20-21.59.56:586][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.BTT_Attack_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_Attack.PackageMetaData'
+[2025.02.20-21.59.56:586][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.SKEL_BTT_Attack_C:ReceiveExecuteAI' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_Attack.PackageMetaData'
+[2025.02.20-21.59.56:586][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.SKEL_BTT_Attack_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_Attack.PackageMetaData'
+[2025.02.20-21.59.56:586][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.BTT_Attack_C:ReceiveExecuteAI' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BTT_Attack.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner:ResetEnemy.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner:CreateEnemy.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ReceiveTick' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:UserConstructionScript' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.SKEL_BP_EnemySpawner_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:598][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner_C:ReceiveBeginPlay' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BP_EnemySpawner.PackageMetaData'
+[2025.02.20-21.59.56:622][631]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PursuerEnemy/BT_Enemy.BT_Enemy:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/AI/BT_Enemy.PackageMetaData'
+[2025.02.20-21.59.56:633][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-21.59.56:634][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol] ([2] browsable assets)...
+[2025.02.20-21.59.56:634][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol]
+[2025.02.20-21.59.56:639][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol
+[2025.02.20-21.59.56:639][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_FindRandomPatrolBA3A112240BC6969FD0D42B9A5E398DF.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol.uasset'
+[2025.02.20-21.59.56:645][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol] ([5] browsable assets)...
+[2025.02.20-21.59.56:645][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol]
+[2025.02.20-21.59.56:645][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol
+[2025.02.20-21.59.56:646][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_FindRandomPatrolE0A51DC4403633F497E28186D2518B1A.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.uasset'
+[2025.02.20-21.59.56:648][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character] ([2] browsable assets)...
+[2025.02.20-21.59.56:648][631]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.02.20-21.59.56:772][631]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character_C]
+[2025.02.20-21.59.56:772][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character]
+[2025.02.20-21.59.56:781][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character
+[2025.02.20-21.59.56:781][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Enemy_Character505CCCCC44FAC2A8DB20F780D95FA614.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.uasset'
+[2025.02.20-21.59.56:787][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AI/Enemy_Character] ([5] browsable assets)...
+[2025.02.20-21.59.56:787][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AI/Enemy_Character]
+[2025.02.20-21.59.56:788][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AI/Enemy_Character
+[2025.02.20-21.59.56:788][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Enemy_Character5C76EA7D427FC6D1CF09C3A8E3AC166D.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI/Enemy_Character.uasset'
+[2025.02.20-21.59.56:790][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller] ([2] browsable assets)...
+[2025.02.20-21.59.56:791][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller]
+[2025.02.20-21.59.56:799][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller
+[2025.02.20-21.59.56:799][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Enemy_Controller84BE89C6426AAB2BB8EA1698743E4F73.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.uasset'
+[2025.02.20-21.59.56:803][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer] ([2] browsable assets)...
+[2025.02.20-21.59.56:803][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer]
+[2025.02.20-21.59.56:806][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer
+[2025.02.20-21.59.56:806][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_ChasePlayerC13BCD094FECD3B0D7CC0394FE35B9B3.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer.uasset'
+[2025.02.20-21.59.56:810][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack] ([2] browsable assets)...
+[2025.02.20-21.59.56:810][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack]
+[2025.02.20-21.59.56:814][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack
+[2025.02.20-21.59.56:814][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_Attack8C3750B842F3E540101F2BACFCE2A91F.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.uasset'
+[2025.02.20-21.59.56:817][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner] ([2] browsable assets)...
+[2025.02.20-21.59.56:817][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner]
+[2025.02.20-21.59.56:823][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner
+[2025.02.20-21.59.56:823][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_EnemySpawner3B6ADA8E4E020FD12971148EDD10545A.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.uasset'
+[2025.02.20-21.59.56:826][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BB_Enemy] ([1] browsable assets)...
+[2025.02.20-21.59.56:826][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BB_Enemy]
+[2025.02.20-21.59.56:827][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BB_Enemy
+[2025.02.20-21.59.56:827][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BB_EnemyD385A55041C6B63DFBAE9ABF791ADFF1.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BB_Enemy.uasset'
+[2025.02.20-21.59.56:828][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BT_Enemy] ([1] browsable assets)...
+[2025.02.20-21.59.56:828][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BT_Enemy]
+[2025.02.20-21.59.56:830][631]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BT_Enemy
+[2025.02.20-21.59.56:830][631]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BT_Enemy5225E0E444D21751F6652B84449D1C5F.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BT_Enemy.uasset'
+[2025.02.20-21.59.56:831][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.428 ms (total: 419.868 ms)
+[2025.02.20-21.59.56:949][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.20-21.59.56:963][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.20-21.59.56:975][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.02.20-21.59.57:026][631]LogContentValidation: Display: Starting to validate 14 assets
+[2025.02.20-21.59.57:026][631]LogContentValidation: Enabled validators:
+[2025.02.20-21.59.57:026][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-21.59.57:026][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-21.59.57:026][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-21.59.57:026][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-21.59.57:026][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-21.59.57:026][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_FindRandomPatrol Validating asset
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol Validating asset
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol Validating asset
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol Validating asset
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character Validating asset
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/Enemy_Character Validating asset
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/Enemy_Character Validating asset
+[2025.02.20-21.59.57:026][631]AssetCheck: /Game/LearningKit_Games/Blueprints/AI/Enemy_Character Validating asset
+[2025.02.20-21.59.57:027][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller Validating asset
+[2025.02.20-21.59.57:027][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_ChasePlayer Validating asset
+[2025.02.20-21.59.57:027][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack Validating asset
+[2025.02.20-21.59.57:027][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner Validating asset
+[2025.02.20-21.59.57:027][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BB_Enemy Validating asset
+[2025.02.20-21.59.57:027][631]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BT_Enemy Validating asset
+[2025.02.20-22.00.05:573][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.20-22.00.13:731][531]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.20-22.00.19:747][157]Cmd: TRANSACTION UNDO
+[2025.02.20-22.00.19:747][157]LogEditorTransaction: Undo Rotate Elements
+[2025.02.20-22.00.20:474][186]Cmd: TRANSACTION UNDO
+[2025.02.20-22.00.20:474][186]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.20-22.00.21:493][302]Cmd: TRANSACTION UNDO
+[2025.02.20-22.00.21:493][302]LogEditorTransaction: Undo Rotate Elements
+[2025.02.20-22.00.26:623][874]Cmd: TRANSACTION REDO
+[2025.02.20-22.00.26:623][874]LogEditorTransaction: Redo Rotate Elements
+[2025.02.20-22.00.26:888][879]Cmd: TRANSACTION REDO
+[2025.02.20-22.00.26:888][879]LogEditorTransaction: Redo Clicking on Elements
+[2025.02.20-22.00.27:139][883]Cmd: TRANSACTION REDO
+[2025.02.20-22.00.27:139][883]LogEditorTransaction: Redo Rotate Elements
+[2025.02.20-22.00.34:797][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-22.00.34:806][722]LogPlayLevel: [PlayLevel] Compiling BP_LearningKitGameMode before play...
+[2025.02.20-22.00.34:828][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.02.20-22.00.34:831][722]LogPlayLevel: PlayLevel: Blueprint regeneration took 26 ms (1 blueprints)
+[2025.02.20-22.00.34:872][722]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.00.34:876][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004492s)
+[2025.02.20-22.00.34:876][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.004530s)
+[2025.02.20-22.00.34:888][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.02.20-22.00.34:889][722]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-22.00.34:890][722]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2025.02.20-22.00.34:891][722]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.20-22.00.34:891][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-22.00.34:891][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-22.00.34:891][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-22.00.34:891][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-22.00.34:891][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-22.00.34:891][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-22.00.34:891][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-22.00.34:891][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-22.00.34:891][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-22.00.34:891][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-22.00.34:891][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-22.00.34:894][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-22.00.34:914][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-22.00.34:915][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-22.00.34:915][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-22.00.34:915][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-22.00.34:916][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.20-22.00.34:916][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.20-22.00.34:917][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.20-22.00.34:917][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.20-22.00.34:917][722]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.20-22.00.34:917][722]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_BasicLevel'.
+[2025.02.20-22.00.34:917][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.20-22.00.34:920][722]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-22.00.34:922][722]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-16.00.34
+[2025.02.20-22.00.34:924][722]LogWorld: Bringing up level for play took: 0.004432
+[2025.02.20-22.00.34:926][722]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.02.20-22.00.34:932][722]PIE: Server logged in
+[2025.02.20-22.00.34:933][722]PIE: Play in editor total start time 0.13 seconds.
+[2025.02.20-22.00.42:171][562]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.00.42:171][562]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.00.42:921][652]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.00.42:921][652]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.00.55:394][114]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.00.55:394][114]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.01.02:732][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.01.02:732][973]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.01.02:732][973]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.01.02:733][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.01.02:736][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-22.01.02:739][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.01.02:751][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.01.02:752][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.20-22.01.02:752][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.20-22.01.02:754][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.20-22.01.02:760][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.02.20-22.01.02:854][975]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.02.20-22.01.05:380][265]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/LearningKit_Games/Blueprints/PursuerEnemy/BT_Enemy.BT_Enemy
+[2025.02.20-22.01.05:601][265]LogSlate: Took 0.006329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.20-22.01.10:920][731]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.BTT_Attack
+[2025.02.20-22.01.10:920][731]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.02.20-22.01.10:948][731]LogStreaming: Display: FlushAsyncLoading(341): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.20-22.01.11:282][731]LogBlueprintEditor: Perf: 0.3 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.02.20-22.01.11:282][731]LogBlueprintEditor: Perf: 0.2 seconds loading: /Game/LearningKit_Robots/Blueprints/Robots/Robot_MASTER/RobotFunctionLib
+[2025.02.20-22.02.45:095][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.02.45:155][295]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack] ([2] browsable assets)...
+[2025.02.20-22.02.45:155][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack]
+[2025.02.20-22.02.45:161][295]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack
+[2025.02.20-22.02.45:161][295]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_AttackCA68DBB6448763A0958B0EA78DA2DED9.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.uasset'
+[2025.02.20-22.02.45:167][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.419 ms (total: 493.288 ms)
+[2025.02.20-22.02.45:204][295]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.02.45:204][295]LogContentValidation: Enabled validators:
+[2025.02.20-22.02.45:204][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.02.45:204][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.02.45:204][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.02.45:204][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.02.45:204][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.02.45:204][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.02.45:204][295]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack Validating asset
+[2025.02.20-22.02.45:751][336]LogBlueprint: Error: [AssetLog] C:\Users\aleza\GitHub\CS415_AF_mp2\MP2_LevelDesign\Content\LearningKit_Games\Blueprints\PursuerEnemy\BTT_Attack.uasset: [Compiler] This blueprint (self) is not a Enemy_Character_C, therefore ' Target ' must have a connection.
+[2025.02.20-22.02.45:813][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.02.20-22.02.55:363][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.02.20-22.02.56:419][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.02.56:472][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack] ([2] browsable assets)...
+[2025.02.20-22.02.56:472][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack]
+[2025.02.20-22.02.56:478][151]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack
+[2025.02.20-22.02.56:479][151]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BTT_Attack9DCC24FE457940D187212093B2699413.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack.uasset'
+[2025.02.20-22.02.56:486][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.398 ms (total: 560.686 ms)
+[2025.02.20-22.02.56:538][151]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.02.56:538][151]LogContentValidation: Enabled validators:
+[2025.02.20-22.02.56:538][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.02.56:538][151]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.02.56:538][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.02.56:538][151]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.02.56:538][151]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.02.56:538][151]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.02.56:538][151]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/BTT_Attack Validating asset
+[2025.02.20-22.03.02:388][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-22.03.02:400][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-22.03.02:428][669]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.03.02:432][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004556s)
+[2025.02.20-22.03.02:432][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.004591s)
+[2025.02.20-22.03.02:451][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.20-22.03.02:454][669]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-22.03.02:456][669]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2025.02.20-22.03.02:456][669]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.02.20-22.03.02:456][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-22.03.02:456][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-22.03.02:456][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-22.03.02:456][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-22.03.02:456][669]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-22.03.02:456][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-22.03.02:456][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-22.03.02:456][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-22.03.02:456][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-22.03.02:456][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-22.03.02:456][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-22.03.02:459][669]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-22.03.02:479][669]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-22.03.02:480][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-22.03.02:480][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-22.03.02:480][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-22.03.02:480][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.02.20-22.03.02:480][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.02.20-22.03.02:482][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.02.20-22.03.02:482][669]LogInit: FAudioDevice initialized with ID 4.
+[2025.02.20-22.03.02:482][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.02.20-22.03.02:482][669]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_BasicLevel'.
+[2025.02.20-22.03.02:482][669]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.20-22.03.02:484][669]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-22.03.02:487][669]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-16.03.02
+[2025.02.20-22.03.02:489][669]LogWorld: Bringing up level for play took: 0.004671
+[2025.02.20-22.03.02:491][669]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.02.20-22.03.02:498][669]PIE: Server logged in
+[2025.02.20-22.03.02:499][669]PIE: Play in editor total start time 0.104 seconds.
+[2025.02.20-22.03.03:474][764]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.03:474][764]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.03.03:474][764]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.03:474][764]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.08:304][317]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.08:304][317]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.03.08:983][395]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.08:983][395]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.09:781][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 960.146118
+[2025.02.20-22.03.09:864][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-22.03.09:864][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 960.221069, Update Interval: 353.082062
+[2025.02.20-22.03.13:971][993]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.13:971][993]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.15:372][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.03.15:373][151]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.03.15:373][151]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.03.15:374][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.03.15:377][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-22.03.15:382][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.03.15:399][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.03.15:400][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.20-22.03.15:400][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.20-22.03.15:401][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.20-22.03.15:409][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.20-22.03.15:454][152]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.02.20-22.03.20:441][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PursuerEnemy/BP_EnemySpawner.BP_EnemySpawner
+[2025.02.20-22.03.20:441][706]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.02.20-22.03.20:517][706]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.20-22.03.30:117][402]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.03.30:117][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.03.30:179][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.02.20-22.03.32:044][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-22.03.32:054][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-22.03.32:077][588]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.03.32:081][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004616s)
+[2025.02.20-22.03.32:081][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.004662s)
+[2025.02.20-22.03.32:099][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.20-22.03.32:101][588]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-22.03.32:102][588]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2025.02.20-22.03.32:103][588]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.02.20-22.03.32:103][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-22.03.32:103][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-22.03.32:103][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-22.03.32:103][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-22.03.32:103][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-22.03.32:103][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-22.03.32:103][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-22.03.32:103][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-22.03.32:103][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-22.03.32:103][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-22.03.32:103][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-22.03.32:105][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-22.03.32:125][588]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-22.03.32:125][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-22.03.32:125][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-22.03.32:125][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-22.03.32:125][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.02.20-22.03.32:126][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.02.20-22.03.32:128][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.02.20-22.03.32:128][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.02.20-22.03.32:128][588]LogInit: FAudioDevice initialized with ID 5.
+[2025.02.20-22.03.32:128][588]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map_BasicLevel'.
+[2025.02.20-22.03.32:128][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.20-22.03.32:130][588]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-22.03.32:134][588]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-16.03.32
+[2025.02.20-22.03.32:135][588]LogWorld: Bringing up level for play took: 0.004760
+[2025.02.20-22.03.32:137][588]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.02.20-22.03.32:144][588]PIE: Server logged in
+[2025.02.20-22.03.32:145][588]PIE: Play in editor total start time 0.095 seconds.
+[2025.02.20-22.03.33:694][758]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.33:694][758]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.39:395][428]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.39:395][428]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.44:184][987]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.44:184][987]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.46:707][287]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.46:707][287]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.03.46:853][304]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.46:853][304]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.03.47:358][361]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.47:358][361]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.49:028][552]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.49:028][552]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.03.56:344][413]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.56:344][413]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.03.56:344][413]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.56:344][413]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.03.57:628][563]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.57:628][563]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.03.57:635][564]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.03.57:635][564]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.04.03:514][133]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.03:514][133]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.04.06:116][401]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.06:116][401]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.04.07:939][615]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.07:939][615]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.04.10:094][834]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.10:094][834]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.04.28:686][762]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.28:686][762]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.04.32:898][187]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.32:898][187]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.04.34:940][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.04.34:940][390]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.04.34:941][390]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.04.34:942][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.04.34:945][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-22.04.34:950][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.04.34:966][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.04.34:966][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.20-22.04.34:966][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.20-22.04.34:968][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.20-22.04.34:975][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.02.20-22.04.35:026][391]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.02.20-22.04.36:378][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-22.04.36:387][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-22.04.36:416][506]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.04.36:420][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004472s)
+[2025.02.20-22.04.36:420][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.004511s)
+[2025.02.20-22.04.36:439][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.02.20-22.04.36:441][506]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-22.04.36:442][506]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2025.02.20-22.04.36:443][506]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.02.20-22.04.36:443][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-22.04.36:443][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-22.04.36:443][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-22.04.36:443][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-22.04.36:443][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-22.04.36:443][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-22.04.36:443][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-22.04.36:443][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-22.04.36:443][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-22.04.36:443][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-22.04.36:443][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-22.04.36:445][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-22.04.36:466][506]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-22.04.36:467][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-22.04.36:467][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-22.04.36:467][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-22.04.36:467][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.02.20-22.04.36:467][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.02.20-22.04.36:469][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.02.20-22.04.36:469][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.02.20-22.04.36:469][506]LogInit: FAudioDevice initialized with ID 6.
+[2025.02.20-22.04.36:469][506]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map_BasicLevel'.
+[2025.02.20-22.04.36:469][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.20-22.04.36:472][506]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-22.04.36:475][506]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-16.04.36
+[2025.02.20-22.04.36:477][506]LogWorld: Bringing up level for play took: 0.004338
+[2025.02.20-22.04.36:479][506]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.02.20-22.04.36:485][506]PIE: Server logged in
+[2025.02.20-22.04.36:485][506]PIE: Play in editor total start time 0.102 seconds.
+[2025.02.20-22.04.48:748][745]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.48:748][745]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.04.48:748][745]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.48:748][745]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.04.53:475][228]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.53:475][228]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.04.54:125][292]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.54:125][292]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.04.56:832][568]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.04.56:832][568]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.05.00:718][968]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.00:718][968]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.05.03:026][193]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.03:026][193]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.05.04:253][314]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.04:253][314]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.05.05:037][392]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.05:037][392]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.05.07:969][690]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.07:969][690]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.05.08:475][741]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.08:475][741]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.05.10:755][978]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.10:755][978]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.05.12:414][150]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.12:414][150]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.05.13:000][208]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.13:000][208]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.05.14:209][326]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.14:209][326]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.05.17:338][637]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.17:338][637]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.05.17:588][663]LogScript: Warning: Script Msg: Enemy_Controller_C_0 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.17:588][663]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_0
+[2025.02.20-22.05.20:305][941]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.20:305][941]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.05.20:962][  8]LogScript: Warning: Script Msg: Enemy_Controller_C_1 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.20:962][  8]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_1
+[2025.02.20-22.05.22:838][194]LogScript: Warning: Script Msg: Enemy_Controller_C_2 StartEnemyTimer SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.20-22.05.22:838][194]LogScript: Warning: Script Msg called by: Enemy_Controller_C /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel:PersistentLevel.Enemy_Controller_C_2
+[2025.02.20-22.05.27:849][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.05.27:849][694]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.05.27:849][694]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.05.27:850][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.05.27:853][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-22.05.27:858][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.05.27:874][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.05.27:875][694]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.20-22.05.27:875][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.20-22.05.27:877][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.20-22.05.27:883][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.02.20-22.05.27:926][695]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.02.20-22.05.35:769][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Character.Enemy_Character
+[2025.02.20-22.05.35:769][404]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.02.20-22.05.36:252][405]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.02.20-22.05.39:814][656]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.05.39:814][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.05.39:881][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.20-22.05.47:355][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.Enemy_Controller
+[2025.02.20-22.05.47:355][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.02.20-22.08.42:936][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.08.42:997][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller] ([2] browsable assets)...
+[2025.02.20-22.08.42:997][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller]
+[2025.02.20-22.08.43:006][199]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller
+[2025.02.20-22.08.43:006][199]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Enemy_Controller241C413C4AF002D2D75C2E9A86B7E8F5.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.uasset'
+[2025.02.20-22.08.43:013][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.272 ms (total: 637.959 ms)
+[2025.02.20-22.08.43:062][199]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.08.43:062][199]LogContentValidation: Enabled validators:
+[2025.02.20-22.08.43:062][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.08.43:062][199]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.08.43:063][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.08.43:063][199]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.08.43:063][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.08.43:063][199]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.08.43:063][199]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller Validating asset
+[2025.02.20-22.08.44:162][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.20-22.08.56:295][110]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-22.08.56:306][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-22.08.56:338][110]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.08.56:343][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004461s)
+[2025.02.20-22.08.56:343][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.004498s)
+[2025.02.20-22.08.56:361][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.02.20-22.08.56:364][110]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-22.08.56:365][110]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2025.02.20-22.08.56:366][110]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.02.20-22.08.56:366][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-22.08.56:366][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-22.08.56:366][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-22.08.56:366][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-22.08.56:366][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-22.08.56:366][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-22.08.56:366][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-22.08.56:366][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-22.08.56:366][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-22.08.56:366][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-22.08.56:366][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-22.08.56:368][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-22.08.56:388][110]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-22.08.56:389][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-22.08.56:389][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-22.08.56:389][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-22.08.56:390][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.02.20-22.08.56:390][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.02.20-22.08.56:391][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.02.20-22.08.56:391][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.02.20-22.08.56:391][110]LogInit: FAudioDevice initialized with ID 7.
+[2025.02.20-22.08.56:391][110]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map_BasicLevel'.
+[2025.02.20-22.08.56:391][110]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.02.20-22.08.56:394][110]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-22.08.56:396][110]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-16.08.56
+[2025.02.20-22.08.56:399][110]LogWorld: Bringing up level for play took: 0.004412
+[2025.02.20-22.08.56:401][110]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.02.20-22.08.56:407][110]PIE: Server logged in
+[2025.02.20-22.08.56:408][110]PIE: Play in editor total start time 0.107 seconds.
+[2025.02.20-22.09.16:776][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1327.139526
+[2025.02.20-22.09.16:844][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-22.09.16:844][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1327.197510, Update Interval: 321.876282
+[2025.02.20-22.09.53:651][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.09.53:651][ 27]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.09.53:652][ 27]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.09.53:653][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.09.53:656][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-22.09.53:661][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.09.53:678][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.09.53:679][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.02.20-22.09.53:679][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.02.20-22.09.53:681][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.02.20-22.09.53:688][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.20-22.09.53:739][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.02.20-22.10.01:495][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.20-22.10.02:148][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.10.02:193][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller] ([2] browsable assets)...
+[2025.02.20-22.10.02:193][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller]
+[2025.02.20-22.10.02:203][526]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller
+[2025.02.20-22.10.02:203][526]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Enemy_ControllerCD889A704AECB66CEC3F5780DF8FCA60.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller.uasset'
+[2025.02.20-22.10.02:210][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.072 ms (total: 700.031 ms)
+[2025.02.20-22.10.02:261][526]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.10.02:261][526]LogContentValidation: Enabled validators:
+[2025.02.20-22.10.02:261][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.10.02:261][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.10.02:262][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.10.02:262][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.10.02:262][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.10.02:262][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.10.02:262][526]AssetCheck: /Game/LearningKit_Games/Blueprints/PursuerEnemy/Enemy_Controller Validating asset
+[2025.02.20-22.10.04:538][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-22.10.04:548][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-22.10.04:548][711]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.10.04:553][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004575s)
+[2025.02.20-22.10.04:553][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.004606s)
+[2025.02.20-22.10.04:569][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.02.20-22.10.04:573][711]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-22.10.04:574][711]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2025.02.20-22.10.04:575][711]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.02.20-22.10.04:575][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-22.10.04:575][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-22.10.04:575][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-22.10.04:575][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-22.10.04:575][711]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-22.10.04:575][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-22.10.04:575][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-22.10.04:575][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-22.10.04:575][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-22.10.04:575][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-22.10.04:575][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-22.10.04:577][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-22.10.04:597][711]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-22.10.04:598][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-22.10.04:598][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-22.10.04:598][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-22.10.04:598][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.02.20-22.10.04:598][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.02.20-22.10.04:600][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.02.20-22.10.04:600][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.02.20-22.10.04:600][711]LogInit: FAudioDevice initialized with ID 8.
+[2025.02.20-22.10.04:600][711]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_BasicLevel'.
+[2025.02.20-22.10.04:600][711]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.02.20-22.10.04:602][711]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-22.10.04:606][711]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-16.10.04
+[2025.02.20-22.10.04:608][711]LogWorld: Bringing up level for play took: 0.004613
+[2025.02.20-22.10.04:610][711]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.02.20-22.10.04:616][711]PIE: Server logged in
+[2025.02.20-22.10.04:617][711]PIE: Play in editor total start time 0.073 seconds.
+[2025.02.20-22.11.26:270][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.11.26:270][249]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.11.26:270][249]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.11.26:271][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.11.26:275][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-22.11.26:279][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.11.26:295][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.11.26:296][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.02.20-22.11.26:296][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.02.20-22.11.26:298][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.02.20-22.11.26:305][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.20-22.11.26:350][250]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.02.20-22.12.00:253][873]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.02.20-22.12.02:418][ 88]Cmd: TRANSACTION UNDO
+[2025.02.20-22.12.02:418][ 88]LogEditorTransaction: Undo Rotate Elements
+[2025.02.20-22.12.19:759][890]Cmd: TRANSACTION UNDO
+[2025.02.20-22.12.19:759][890]LogEditorTransaction: Undo Rotate Elements
+[2025.02.20-22.12.20:170][898]Cmd: TRANSACTION UNDO
+[2025.02.20-22.12.20:170][898]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.20-22.12.31:452][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.12.31:525][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.20-22.12.31:544][116]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.20-22.12.31:545][116]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevel3928FB00478EAFCA3A0C0FAE80F3AEAE.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.20-22.12.31:552][116]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.063
+[2025.02.20-22.12.31:559][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.242 ms (total: 807.274 ms)
+[2025.02.20-22.12.31:589][116]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.12.31:589][116]LogContentValidation: Enabled validators:
+[2025.02.20-22.12.31:589][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.12.31:589][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.12.31:589][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.12.31:589][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.12.31:589][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.12.31:589][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.12.31:589][116]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.20-22.12.56:122][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.12.56:190][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.20-22.12.56:204][810]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.20-22.12.56:204][810]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevel6123730C468AF44EDDB6B781602C2A37.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.20-22.12.56:213][810]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.056
+[2025.02.20-22.12.56:219][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.772 ms (total: 905.047 ms)
+[2025.02.20-22.12.56:255][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.12.56:255][810]LogContentValidation: Enabled validators:
+[2025.02.20-22.12.56:255][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.12.56:255][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.12.56:255][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.12.56:255][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.12.56:255][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.12.56:255][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.12.56:255][810]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.20-22.13.27:815][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.20-22.13.33:863][220]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.20-22.13.33:871][220]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.BP_LearningKitGameMode
+[2025.02.20-22.13.33:871][220]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.02.20-22.13.43:456][809]LogSlate: Took 0.007688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.20-22.13.50:404][270]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.13.50:404][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.13.50:471][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.20-22.13.58:694][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.20-22.13.59:986][925]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.20-22.14.00:002][925]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/LearningKit_Games/Blueprints/AI/Enemy_Character.Enemy_Character
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LearningKit_Games/Blueprints/AI/Enemy_Character.Default__Enemy_Character_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LearningKit_Games/Blueprints/AI/Enemy_Character.Enemy_Character_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.Default__BTT_FindRandomPatrol_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LearningKit_Games/Blueprints/AI/BTT_FindRandomPatrol.BTT_FindRandomPatrol_C
+	Asset Type: ObjectRedirector
+[2025.02.20-22.14.00:426][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.20-22.14.09:287][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.14.09:355][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.20-22.14.09:372][867]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.20-22.14.09:373][867]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevel84374C294CE78BBD8A359DB8A7A952A0.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.20-22.14.09:380][867]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.060
+[2025.02.20-22.14.09:387][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.349 ms (total: 1.00 sec)
+[2025.02.20-22.14.09:436][867]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.14.09:436][867]LogContentValidation: Enabled validators:
+[2025.02.20-22.14.09:436][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.14.09:436][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.14.09:436][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.14.09:436][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.14.09:437][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.14.09:437][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.14.09:437][867]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.20-22.14.10:375][967]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.20-22.14.10:387][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.20-22.14.10:419][967]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.14.10:425][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004569s)
+[2025.02.20-22.14.10:425][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/Map_BasicLevel.Map_BasicLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel (0.004609s)
+[2025.02.20-22.14.10:444][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.02.20-22.14.10:445][967]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_BasicLevel
+[2025.02.20-22.14.10:447][967]LogPlayLevel: PIE: World Init took: (0.001452s)
+[2025.02.20-22.14.10:448][967]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.02.20-22.14.10:448][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.20-22.14.10:448][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.20-22.14.10:448][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.20-22.14.10:448][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.20-22.14.10:448][967]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.20-22.14.10:448][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.20-22.14.10:448][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.20-22.14.10:448][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.20-22.14.10:448][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.20-22.14.10:448][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.20-22.14.10:448][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.20-22.14.10:450][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.20-22.14.10:470][967]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.02.20-22.14.10:470][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.20-22.14.10:470][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.20-22.14.10:470][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.20-22.14.10:470][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.02.20-22.14.10:470][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.02.20-22.14.10:472][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.02.20-22.14.10:472][967]LogInit: FAudioDevice initialized with ID 9.
+[2025.02.20-22.14.10:472][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.02.20-22.14.10:472][967]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map_BasicLevel'.
+[2025.02.20-22.14.10:472][967]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.02.20-22.14.10:475][967]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.02.20-22.14.10:478][967]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel.Map_BasicLevel up for play (max tick rate 0) at 2025.02.20-16.14.10
+[2025.02.20-22.14.10:479][967]LogWorld: Bringing up level for play took: 0.004545
+[2025.02.20-22.14.10:481][967]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.02.20-22.14.10:488][967]PIE: Server logged in
+[2025.02.20-22.14.10:489][967]PIE: Play in editor total start time 0.108 seconds.
+[2025.02.20-22.14.30:235][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.14.30:235][263]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_Map_BasicLevel
+[2025.02.20-22.14.30:235][263]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.14.30:236][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.14.30:240][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.20-22.14.30:245][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.14.30:261][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.20-22.14.30:261][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.02.20-22.14.30:261][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.02.20-22.14.30:263][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.02.20-22.14.30:270][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.20-22.14.30:316][264]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.02.20-22.14.36:186][904]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.02.20-22.14.37:406][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2025.02.20-22.14.37:406][ 27]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.02.20-22.14.38:470][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.02.20-22.15.09:376][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1679.730835
+[2025.02.20-22.15.09:469][937]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-22.15.09:469][937]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1679.811157, Update Interval: 321.828674
+[2025.02.20-22.15.59:928][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.02.20-22.16.01:840][848]LogSlate: Window 'Save Content' being destroyed
+[2025.02.20-22.16.01:847][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-22.16.01:956][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.02.20-22.16.01:957][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode] ([2] browsable assets)...
+[2025.02.20-22.16.01:958][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode]
+[2025.02.20-22.16.01:965][848]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode
+[2025.02.20-22.16.01:965][848]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BP_LearningKitGameMode77FDBB82498E3D8DE84389B21415D2B2.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset'
+[2025.02.20-22.16.01:973][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.861 ms (total: 1.13 sec)
+[2025.02.20-22.16.02:009][848]LogStall: Shutdown...
+[2025.02.20-22.16.02:009][848]LogStall: Shutdown complete.
+[2025.02.20-22.16.02:097][848]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:098][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:141][848]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:141][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:179][848]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2025.02.20-22.16.02:215][848]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.20-22.16.02:215][848]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:215][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:268][848]LogSlate: Window 'MP2_LevelDesign - Unreal Editor' being destroyed
+[2025.02.20-22.16.02:343][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-22.16.02:343][848]LogContentValidation: Enabled validators:
+[2025.02.20-22.16.02:343][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-22.16.02:343][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-22.16.02:343][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-22.16.02:343][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-22.16.02:343][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-22.16.02:343][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-22.16.02:343][848]AssetCheck: /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode Validating asset
+[2025.02.20-22.16.02:365][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.02.20-22.16.02:399][848]Cmd: QUIT_EDITOR
+[2025.02.20-22.16.02:399][849]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.02.20-22.16.02:404][849]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.02.20-22.16.02:404][849]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.02.20-22.16.02:404][849]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.02.20-22.16.02:405][849]LogWorld: UWorld::CleanupWorld for Map_BasicLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:405][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:412][849]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.02.20-22.16.02:413][849]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.02.20-22.16.02:415][849]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:415][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:419][849]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:419][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:422][849]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:422][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:424][849]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:424][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:427][849]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:427][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:429][849]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:429][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:431][849]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:431][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:433][849]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:433][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:435][849]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:435][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:438][849]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-22.16.02:438][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-22.16.02:441][849]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.02.20-22.16.02:446][849]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.02.20-22.16.02:446][849]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.02.20-22.16.02:446][849]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.02.20-22.16.02:962][849]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.02.20-22.16.02:962][849]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.02.20-22.16.02:962][849]LogAudio: Display: Audio Device unregistered from world 'Map_BasicLevel'.
+[2025.02.20-22.16.02:962][849]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.02.20-22.16.02:962][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.20-22.16.02:964][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.20-22.16.02:987][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.02.20-22.16.02:987][849]LogAudio: Display: Audio Device Manager Shutdown
+[2025.02.20-22.16.02:987][849]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.20-22.16.02:989][849]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.20-22.16.02:991][849]LogExit: Preparing to exit.
+[2025.02.20-22.16.03:020][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:022][849]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-22.16.03:851][849]LogEditorDataStorage: Deinitializing
+[2025.02.20-22.16.03:989][849]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.02.20-22.16.04:002][849]LogExit: Editor shut down
+[2025.02.20-22.16.04:004][849]LogExit: Transaction tracking system shut down
+[2025.02.20-22.16.04:166][849]LogExit: Object subsystem successfully closed.
+[2025.02.20-22.16.04:212][849]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.20-22.16.05:046][849]LogMemoryProfiler: Shutdown
+[2025.02.20-22.16.05:047][849]LogNetworkingProfiler: Shutdown
+[2025.02.20-22.16.05:047][849]LoadingProfiler: Shutdown
+[2025.02.20-22.16.05:047][849]LogTimingProfiler: Shutdown
+[2025.02.20-22.16.05:373][849]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.02.20-22.16.05:396][849]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.02.20-22.16.05:396][849]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66B91265-4FBA-6D29-BB1A-029E49AAC869%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=06a3136849bf165d62a3f3a954104a59%7C29e80908772941c18a4ac1976e1b4652%7C73a0de03-5991-430a-b039-da4cb3608a8b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.02.20-22.16.05:931][849]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.02.20-22.16.05:931][849]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.02.20-22.16.05:931][849]LogNFORDenoise: NFORDenoise function shutting down
+[2025.02.20-22.16.05:935][849]RenderDocPlugin: plugin has been unloaded.
+[2025.02.20-22.16.05:936][849]LogXGEController: Cleaning working directory: C:/Users/aleza/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.02.20-22.16.05:939][849]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.02.20-22.16.05:939][849]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.02.20-22.16.05:939][849]LogPakFile: Destroying PakPlatformFile
+[2025.02.20-22.16.06:911][849]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.20-22.16.06:978][849]LogExit: Exiting.
+[2025.02.20-22.16.06:996][849]Log file closed, 02/20/25 16:16:06
