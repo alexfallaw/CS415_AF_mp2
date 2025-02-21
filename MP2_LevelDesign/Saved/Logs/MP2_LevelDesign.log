@@ -1342,6 +1342,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.21-17.18.33:841][  0]LoadErrors: Warning: While trying to load package /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Skeleton, a dependent package /Engine/EngineMeshes/Humanoid was not available. Additional explanatory information follows:
 FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineMeshes/Humanoid.uasset'. Perhaps it has been deleted or was not synced?
 
+<<<<<<< HEAD
 [2025.02.21-17.18.33:952][  1]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
 [2025.02.21-17.18.33:965][  1]LogAssetRegistry: AssetRegistryGather time 0.6713s: AssetDataDiscovery 0.5588s, AssetDataGather 0.0576s, StoreResults 0.0549s. Wall time 19.0960s.
 	NumCachedDirectories 0. NumUncachedDirectories 1679. NumCachedFiles 8165. NumUncachedFiles 6.
@@ -1808,3 +1809,20 @@ Are you sure?
 [2025.02.21-17.44.20:711][517]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.02.21-17.44.20:864][517]LogExit: Exiting.
 [2025.02.21-17.44.20:886][517]Log file closed, 02/21/25 11:44:20
+=======
+[2025.02.20-23.33.51:606][  1]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.02.20-23.33.51:618][  1]LogAssetRegistry: AssetRegistryGather time 0.1221s: AssetDataDiscovery 0.0389s, AssetDataGather 0.0241s, StoreResults 0.0591s. Wall time 8.4490s.
+	NumCachedDirectories 0. NumUncachedDirectories 1675. NumCachedFiles 8120. NumUncachedFiles 49.
+	BackgroundTickInterruptions 15.
+[2025.02.20-23.33.51:663][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.02.20-23.33.51:663][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.02.20-23.33.51:801][  2]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.20-23.33.51:820][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 6.164174
+[2025.02.20-23.33.51:821][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.02.20-23.33.51:822][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6.271449
+[2025.02.20-23.33.52:261][  6]LogSourceControl: Uncontrolled asset enumeration finished in 0.598239 seconds (Found 8145 uncontrolled assets)
+[2025.02.20-23.33.52:899][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.02.20-23.33.53:535][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.695665
+[2025.02.20-23.33.53:536][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -36188152
+[2025.02.20-23.33.53:536][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.695665, Update Interval: 353.781555
+>>>>>>> parent of a6fda35 (created cannon projectile)
