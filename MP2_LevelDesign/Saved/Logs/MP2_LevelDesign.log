@@ -10796,3 +10796,69 @@ Sampler Limit: 32
 [2025.02.28-21.09.00:819][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23017.542969
 [2025.02.28-21.09.01:819][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.28-21.09.01:819][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23018.208984, Update Interval: 336.158936
+[2025.02.28-21.09.14:134][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.02.28-21.09.14:147][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.28-21.09.14:260][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.28-21.09.14:295][834]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/Map_BasicLevel
+[2025.02.28-21.09.14:295][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Map_BasicLevel2018A3B54903017A31847CA3B8D34DE6.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Maps/Map_BasicLevel.umap'
+[2025.02.28-21.09.14:306][834]LogFileHelpers: Saving map 'Map_BasicLevel' took 0.091
+[2025.02.28-21.09.14:306][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineDebugMaterials/TextureColorViewMode] ([1] browsable assets)...
+[2025.02.28-21.09.14:306][834]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineDebugMaterials/TextureColorViewMode]
+[2025.02.28-21.09.14:306][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineDebugMaterials/TextureColorViewMode" FILE="../../../Engine/Content/EngineDebugMaterials/TextureColorViewMode.uasset" SILENT=true
+[2025.02.28-21.09.14:310][834]LogSavePackage: Moving output files for package: /Engine/EngineDebugMaterials/TextureColorViewMode
+[2025.02.28-21.09.14:310][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/TextureColorViewMode0F43789447AB5F1FFD4D648FEA34ACBE.tmp' to '../../../Engine/Content/EngineDebugMaterials/TextureColorViewMode.uasset'
+[2025.02.28-21.09.14:311][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/StoneMaterial] ([1] browsable assets)...
+[2025.02.28-21.09.14:311][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/StoneMaterial]
+[2025.02.28-21.09.14:314][834]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/StoneMaterial
+[2025.02.28-21.09.14:314][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/StoneMaterial123DC6124E2D7915BBA4339AB0F4334D.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/StoneMaterial.uasset'
+[2025.02.28-21.09.14:315][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/Danger] ([1] browsable assets)...
+[2025.02.28-21.09.14:315][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/Danger]
+[2025.02.28-21.09.14:316][834]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/Danger
+[2025.02.28-21.09.14:317][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/Danger9355C4E443334B053ECDE0AC93922604.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/Danger.uasset'
+[2025.02.28-21.09.14:318][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/AddedContent/WBP_DangerTunnel] ([2] browsable assets)...
+[2025.02.28-21.09.14:318][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AddedContent/WBP_DangerTunnel]
+[2025.02.28-21.09.14:321][834]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AddedContent/WBP_DangerTunnel
+[2025.02.28-21.09.14:321][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/WBP_DangerTunnelC9B902B24AAAEA5ECFF9838D8AF678D2.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AddedContent/WBP_DangerTunnel.uasset'
+[2025.02.28-21.09.14:322][834]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/LearningKit_Games/Blueprints/AddedContent/WBP_DangerTunnel.
+[2025.02.28-21.09.14:324][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/AddedAssets/cone1] ([1] browsable assets)...
+[2025.02.28-21.09.14:324][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/AddedAssets/cone1]
+[2025.02.28-21.09.14:328][834]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/AddedAssets/cone1
+[2025.02.28-21.09.14:328][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/cone1B300846F4BB5D90DDE31229BA7050E34.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Assets/AddedAssets/cone1.uasset'
+[2025.02.28-21.09.14:329][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst] ([1] browsable assets)...
+[2025.02.28-21.09.14:329][834]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst]
+[2025.02.28-21.09.14:329][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst" FILE="../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" SILENT=true
+[2025.02.28-21.09.14:331][834]LogSavePackage: Moving output files for package: /Engine/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst
+[2025.02.28-21.09.14:331][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/TranslucentLaserPointerMaterialI770BDBC14AF6B04F8978189929B53D35.tmp' to '../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset'
+[2025.02.28-21.09.14:332][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/VREditor/LaserPointer/LaserPointerMaterialInst] ([1] browsable assets)...
+[2025.02.28-21.09.14:332][834]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/LaserPointer/LaserPointerMaterialInst]
+[2025.02.28-21.09.14:332][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/LaserPointer/LaserPointerMaterialInst" FILE="../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" SILENT=true
+[2025.02.28-21.09.14:333][834]LogSavePackage: Moving output files for package: /Engine/VREditor/LaserPointer/LaserPointerMaterialInst
+[2025.02.28-21.09.14:334][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/LaserPointerMaterialInst3210E393406A118A1F9AA1B15EC8203C.tmp' to '../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset'
+[2025.02.28-21.09.14:335][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/VREditor/LaserPointer/LaserPointerMaterial] ([1] browsable assets)...
+[2025.02.28-21.09.14:335][834]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/LaserPointer/LaserPointerMaterial]
+[2025.02.28-21.09.14:335][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/LaserPointer/LaserPointerMaterial" FILE="../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" SILENT=true
+[2025.02.28-21.09.14:341][834]LogSavePackage: Moving output files for package: /Engine/VREditor/LaserPointer/LaserPointerMaterial
+[2025.02.28-21.09.14:342][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/LaserPointerMaterial8AE15E1C4D6575A3AC7FE6A6793B8C28.tmp' to '../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset'
+[2025.02.28-21.09.14:343][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/LaserEnemy/BB_Laser] ([1] browsable assets)...
+[2025.02.28-21.09.14:343][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/LaserEnemy/BB_Laser]
+[2025.02.28-21.09.14:344][834]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/LaserEnemy/BB_Laser
+[2025.02.28-21.09.14:344][834]LogSavePackage: Moving '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Saved/BB_Laser4FC10CED4667A0B0ECD0AF9901755471.tmp' to '../../../../../../Users/aleza/GitHub/CS415_AF_mp2/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/LaserEnemy/BB_Laser.uasset'
+[2025.02.28-21.09.14:362][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.762 ms (total: 14.0 sec)
+[2025.02.28-21.09.14:431][834]LogContentValidation: Display: Starting to validate 10 assets
+[2025.02.28-21.09.14:431][834]LogContentValidation: Enabled validators:
+[2025.02.28-21.09.14:431][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.28-21.09.14:431][834]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.28-21.09.14:431][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.28-21.09.14:431][834]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.28-21.09.14:431][834]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.28-21.09.14:431][834]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.28-21.09.14:431][834]AssetCheck: /Game/LearningKit_Games/Maps/Map_BasicLevel Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Engine/EngineDebugMaterials/TextureColorViewMode Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/StoneMaterial Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/Danger Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Game/LearningKit_Games/Blueprints/AddedContent/WBP_DangerTunnel Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Game/LearningKit_Games/Assets/AddedAssets/cone1 Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Engine/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Engine/VREditor/LaserPointer/LaserPointerMaterialInst Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Engine/VREditor/LaserPointer/LaserPointerMaterial Validating asset
+[2025.02.28-21.09.14:432][834]AssetCheck: /Game/LearningKit_Games/Blueprints/LaserEnemy/BB_Laser Validating asset
